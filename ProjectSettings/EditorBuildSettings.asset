@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuInicial.unity
     guid: 3c86ca3d01e9f5946b1cb8cfe78dc0f8
   - enabled: 1
-    path: Assets/Scenes/MenuNivel.unity
-    guid: 74a0092c55023ef4c84c09a0e9ca02cb
+    path: Assets/Scenes/NivelAntiguedad.unity
+    guid: 5d73aa0cb27ebfb43a03f38a0cf4266f
+  - enabled: 1
+    path: Assets/Scenes/NivelMedieval.unity
+    guid: efabe00a73fea994d9aadb10a3e49c24
+  - enabled: 1
+    path: Assets/Scenes/NivelFuturista.unity
+    guid: e60a71afa46d7c24bb78f7a352565d3b
   m_configObjects: {}

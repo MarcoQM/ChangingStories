@@ -287,7 +287,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &40727926
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1391,7 +1391,7 @@ GameObject:
   - component: {fileID: 919169759}
   - component: {fileID: 919169758}
   m_Layer: 5
-  m_Name: ButtonLevel1
+  m_Name: ButtonLevelAntiquity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1461,7 +1461,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 919169759}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1511988333}
+        m_TargetAssemblyTypeName: MenuNiveles, Assembly-CSharp
+        m_MethodName: JugarNivelAntiguedad
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &919169759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1513,7 +1525,7 @@ GameObject:
   - component: {fileID: 1008989237}
   - component: {fileID: 1008989236}
   m_Layer: 5
-  m_Name: ButtonLevel3
+  m_Name: ButtonLevelFuturistic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1583,7 +1595,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1008989237}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1511988333}
+        m_TargetAssemblyTypeName: MenuNiveles, Assembly-CSharp
+        m_MethodName: JugarNivelFuturista
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1008989237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1770,7 +1794,7 @@ GameObject:
   - component: {fileID: 1156408322}
   - component: {fileID: 1156408321}
   m_Layer: 5
-  m_Name: ButtonLevel2
+  m_Name: ButtonLevelMedieval
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1840,7 +1864,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1156408322}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1511988333}
+        m_TargetAssemblyTypeName: MenuNiveles, Assembly-CSharp
+        m_MethodName: JugarNivelMedieval
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1156408322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2105,6 +2141,7 @@ GameObject:
   - component: {fileID: 1511988330}
   - component: {fileID: 1511988332}
   - component: {fileID: 1511988331}
+  - component: {fileID: 1511988333}
   m_Layer: 5
   m_Name: MenuNiveles
   m_TagString: Untagged
@@ -2177,6 +2214,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1511988329}
   m_CullTransparentMesh: 1
+--- !u!114 &1511988333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511988329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b314f85cd6d85ee4081f9291a7570924, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1551658797
 GameObject:
   m_ObjectHideFlags: 0
