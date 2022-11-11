@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f5bad85fcb003d444931cbd717326c8e
+guid: 1c6bbe46e2a7cf649abb7c0aed20a486
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,1156 +105,1198 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteAntiguo_0
+      name: IdleFuturista1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1497
-        width: 143
+        x: 78
+        y: 1549
+        width: 124
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9a9dafe04a2784409c24f3d5540f0a7
-      internalID: 298078183
+      spriteID: b85390a0e4269634a910fb3ba5de11fc
+      internalID: -504200143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_1
+      name: IdleFuturista2
       rect:
         serializedVersion: 2
-        x: 225
-        y: 1498
-        width: 149
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82c09ba7c7454ce4e8d4779fe132e7e7
-      internalID: 2009914236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_2
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 1498
-        width: 152
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d49f144ceecd6184fba4d3ce7fe14909
-      internalID: -1438212509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_3
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 1497
-        width: 150
+        x: 218
+        y: 1549
+        width: 124
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1880f5f11b641314f9d13ddd7543eba3
-      internalID: -560653024
+      spriteID: 5c5cad7a838e293448928510dc356272
+      internalID: 357664928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_4
+      name: IdleFuturista3
       rect:
         serializedVersion: 2
-        x: 785
-        y: 1493
-        width: 146
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0c025fca66b44646a29b4557dce5928
-      internalID: 1854602453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_6
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 1290
-        width: 134
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 933b6677fb830334aa441a5fc678b92e
-      internalID: 36488500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_7
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 1290
-        width: 145
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98acc7edfa047544a92f1dad45bb8031
-      internalID: 2100926396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_8
-      rect:
-        serializedVersion: 2
-        x: 414
-        y: 1293
-        width: 149
-        height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83e708d0f8df0564f800f0f818f2fcc2
-      internalID: 662142357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_9
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 1301
-        width: 150
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62b25fa7da7662d40926ada549dcf6b8
-      internalID: 1815668255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_10
-      rect:
-        serializedVersion: 2
-        x: 778
-        y: 1293
-        width: 156
-        height: 163
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9357bbddd72de8445bcb0db749ddb018
-      internalID: 1517416253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_11
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 1074
-        width: 109
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5257f6009b61c9e4f81196b23b99e4d2
-      internalID: 1421221432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_12
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 1074
+        x: 350
+        y: 1549
         width: 125
-        height: 184
+        height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 962e0b72a907e5b48af14aaadd5994b4
-      internalID: 1807745650
+      spriteID: 0ecfdbc499bd91d4b8a6c938bbc612f5
+      internalID: 631606637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_13
+      name: IdleFuturista4
       rect:
         serializedVersion: 2
-        x: 354
-        y: 1074
-        width: 148
-        height: 181
+        x: 478
+        y: 1549
+        width: 124
+        height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe0889c97dd641740aaed46255b23c3a
-      internalID: -1090974175
+      spriteID: e6e3ae4915ee03d49bf8a8e8c7c07551
+      internalID: -1902081594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_14
+      name: IdleFuturista5
       rect:
         serializedVersion: 2
-        x: 549
-        y: 1074
-        width: 121
-        height: 184
+        x: 630
+        y: 1549
+        width: 125
+        height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec321be14627e534e8c10597b86e5555
-      internalID: -2006727521
+      spriteID: 18652b44e10a88044a9a498dd41bd971
+      internalID: -1782378374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_15
+      name: IdleFuturista6
       rect:
         serializedVersion: 2
-        x: 709
-        y: 1074
-        width: 162
-        height: 181
+        x: 777
+        y: 1549
+        width: 122
+        height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09ee340110abdca488ffeb52429a1369
-      internalID: -1205585227
+      spriteID: 3790ed2c9162af340b5d869a8c7d6ea6
+      internalID: -1659065530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_16
+      name: IdleFuturistaSaltar1
       rect:
         serializedVersion: 2
-        x: 913
-        y: 1074
-        width: 174
-        height: 181
+        x: 81
+        y: 1345
+        width: 117
+        height: 185
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ddd1862da1845a479734dafbd16e9f8
-      internalID: -1504055456
+      spriteID: 96339ad206cba9a4d91ed24018a68095
+      internalID: -38373699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_17
-      rect:
-        serializedVersion: 2
-        x: 1113
-        y: 1073
-        width: 174
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7241c9a6a0a074e41b7cfddfc62e5367
-      internalID: 1734276464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_18
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 881
-        width: 152
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d992d7cd1cfebc5459235d47ccb4a20c
-      internalID: 1154831397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_19
+      name: IdleFuturistaSaltar2
       rect:
         serializedVersion: 2
         x: 221
-        y: 881
-        width: 145
-        height: 158
+        y: 1346
+        width: 125
+        height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5ff36480eb72374aaf76f328284a430
-      internalID: -757169464
+      spriteID: 121d48ee12cecb04b8b9acfc95bcb875
+      internalID: 566964210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_20
+      name: IdleFuturistaSaltar3
       rect:
         serializedVersion: 2
-        x: 393
-        y: 881
-        width: 146
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a82d526ecad4cbb4594563be77c2fcb6
-      internalID: 1667599760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_21
-      rect:
-        serializedVersion: 2
-        x: 557
-        y: 881
-        width: 166
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef7dc9f995f49014bbd2af55b5021ff9
-      internalID: 1344369843
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_22
-      rect:
-        serializedVersion: 2
-        x: 749
-        y: 881
-        width: 182
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc3c1a35d7533a849a1a60179678b965
-      internalID: -203928672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_23
-      rect:
-        serializedVersion: 2
-        x: 962
-        y: 873
-        width: 172
-        height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 621ccd7ce491983499b6f8dcf86e02e5
-      internalID: -1339242134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_24
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 645
-        width: 149
-        height: 162
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48bb354342a55f74fbaeef1907399b23
-      internalID: 70534099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_25
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 645
-        width: 161
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73c2c6a3d16b0db4fb27a207cd454d2b
-      internalID: 1727623729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_26
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 645
-        width: 161
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4d90a45d28db7545bb5b3b01a2caf8b
-      internalID: -1133792478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_27
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 445
-        width: 149
-        height: 165
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3a35d46a76bf4d458759e8fb707cbce
-      internalID: -1317748498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_28
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 445
-        width: 158
-        height: 162
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 137f54e4b30882d42bfea4d66528bdf7
-      internalID: 1187351514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_29
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 445
-        width: 196
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec17fb313d713b7478c20566b7b3b861
-      internalID: 1498432341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_30
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 441
-        width: 196
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 950b2225bc0556947910e13290e0c0e4
-      internalID: 48771812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_31
-      rect:
-        serializedVersion: 2
-        x: 858
-        y: 438
-        width: 206
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7eed9b008f137d04c81ca9c4d6f9ef1f
-      internalID: 1680344322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_32
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 234
-        width: 133
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b3a4296e41b3e84f8c036961ad6ecb1
-      internalID: -2115223940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_33
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 234
-        width: 133
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d3acdb0ca9d21042b61be04aa7ebd34
-      internalID: 549076771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_34
-      rect:
-        serializedVersion: 2
-        x: 382
-        y: 236
-        width: 133
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd0286f62b0413f4dafbcb9ae0d0b1f4
-      internalID: -606263756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_35
-      rect:
-        serializedVersion: 2
-        x: 530
-        y: 234
-        width: 136
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dafcce637b44c3741a58d9b9ac6999da
-      internalID: -1344065071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_36
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 236
-        width: 136
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aaea8f53eab1bd14e94c3ae21c68b99f
-      internalID: -849407525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_37
-      rect:
-        serializedVersion: 2
-        x: 868
-        y: 234
-        width: 131
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23b308c5ef770774eb701ecb2548ae84
-      internalID: 635680960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_38
-      rect:
-        serializedVersion: 2
-        x: 1040
-        y: 234
-        width: 131
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 249eab5b4636e734ab260075d5857cc8
-      internalID: 856538033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_39
-      rect:
-        serializedVersion: 2
-        x: 1209
-        y: 234
-        width: 133
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 260f43332a122734091ba948a41ca9fa
-      internalID: -678362238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_40
-      rect:
-        serializedVersion: 2
-        x: 1370
-        y: 236
-        width: 136
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1459810db71244240a7d7412e0a11c94
-      internalID: -1170771960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_41
-      rect:
-        serializedVersion: 2
-        x: 1510
-        y: 236
-        width: 145
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58819530996877d45ab3ce4f761d905b
-      internalID: 1845907550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_42
-      rect:
-        serializedVersion: 2
-        x: 1686
-        y: 234
-        width: 133
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fce02eb8b6b851242b6e029437a629c8
-      internalID: 2125330625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_43
-      rect:
-        serializedVersion: 2
-        x: 1853
-        y: 234
+        x: 365
+        y: 1349
         width: 134
         height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69c6c8a3aee02394fbf5f19718e1ecfb
-      internalID: 1974555038
+      spriteID: b693d242f304c3042b99452333d629eb
+      internalID: -430194551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_44
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 37
-        width: 133
-        height: 178
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a4bdc2622e7bd549abafeda96b6efc4
-      internalID: -965605503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_45
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 37
-        width: 133
-        height: 178
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48fb81ba84f55a146a0c96017a872d5e
-      internalID: -372790587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_46
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 37
-        width: 141
-        height: 178
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35776ae00d4e39a41adc583481c4a48d
-      internalID: -1852987574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteAntiguo_47
+      name: IdleFuturistaSaltar4
       rect:
         serializedVersion: 2
         x: 533
-        y: 37
-        width: 150
-        height: 174
+        y: 1346
+        width: 142
+        height: 184
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce1049e9370de044eb790fcc6bdf1ff7
-      internalID: 2094462063
+      spriteID: 5da60a90b69452d4e817efa2d1ad5180
+      internalID: -1262545583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_48
+      name: IdleFuturistaSaltar5
       rect:
         serializedVersion: 2
-        x: 725
-        y: 37
+        x: 701
+        y: 1349
+        width: 130
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0750269ef4deffd43b48470707bcaa6e
+      internalID: -463786832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaSaltar6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1346
+        width: 122
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e544f64132c54e95864357ebb420c
+      internalID: -1483578855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1146
+        width: 138
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2a3e55fe0ab34a9879840bc9df5de
+      internalID: 230300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1146
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b244af162f7ab46bef02cff590590b
+      internalID: 332188625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1146
+        width: 96
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edc3d8701ff0642b9a6f5fc90cc619
+      internalID: 914947866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1146
+        width: 117
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef4b3e0bdbb9de4ea0314fba18307ad
+      internalID: -1733988021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1146
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a47e0c6564e084283e82235cbeafd4
+      internalID: 81112547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaPegar6
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1146
         width: 141
-        height: 178
+        height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 972838e8f4c003a4a85deeb4dd7df37f
-      internalID: -1495219051
+      spriteID: 58cefe6047ca1454e90ba80b8c0d9be8
+      internalID: 2108075947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_49
+      name: IdleFuturistaPegar7
       rect:
         serializedVersion: 2
-        x: 886
-        y: 37
+        x: 989
+        y: 1146
+        width: 137
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49123ce8d6a2b1e43be7c38fa2ae9f8f
+      internalID: -921764476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 914
+        width: 121
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e82f3fc0ca25142abe7fa95d2adf49
+      internalID: 1290464760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 912
+        width: 124
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4130155c4ff47428c8772274199cae
+      internalID: -91910714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 914
+        width: 122
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929d504518577642b7ffed88e6f3566
+      internalID: 2000895615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 914
+        width: 122
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb65c98c702130146a6a162addad90df
+      internalID: -1935796281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_24
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 914
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc567bf43719ff48832cc6949a9b967
+      internalID: -937937309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_25
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 906
+        width: 133
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88c260a6217674988e11992ef43b92
+      internalID: -1604804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 669
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed680354d8822b940957a8ec067e35ce
+      internalID: 1205482291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 674
+        width: 121
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a07b58191fc254b8b2ce4fa32ea94e
+      internalID: 1563415627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 674
+        width: 123
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0c9ab49ef9064fb1ac2ce9f920350
+      internalID: 1255440063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_29
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 674
+        width: 126
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0915db577620bf946924f7c27c66fe0c
+      internalID: -1892934274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 674
+        width: 121
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953ee9b5de5d854e8231f5289cca2e1
+      internalID: 1186181430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 674
+        width: 125
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090e0010580d9f46a356b3690606a7b
+      internalID: -1892393443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 493
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddab2d4c63eb61488a470e2d9b063ac
+      internalID: -1410238934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteModerno_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 493
         width: 132
-        height: 178
+        height: 146
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b333333c296a68e4abc28f2699f7c0f2
-      internalID: 844504462
+      spriteID: f9f2e243c134d21469fe166b29f65dab
+      internalID: 1456385091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_50
+      name: SpriteModerno_34
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 37
-        width: 131
-        height: 178
+        x: 369
+        y: 493
+        width: 138
+        height: 146
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7df8af74bf807eb42add02d2e5601132
-      internalID: 1182777108
+      spriteID: 55c27eb71c3b93e47aa3ed623c8ddd59
+      internalID: 144651848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_51
+      name: SpriteModerno_35
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 37
-        width: 149
-        height: 178
+        x: 529
+        y: 493
+        width: 139
+        height: 149
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c7c2f0834fe2d1459665bf75b5c34a0
-      internalID: -1909654491
+      spriteID: 652e1c892718db54da86cb56a22b6757
+      internalID: 1175455991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_52
+      name: SpriteModerno_36
       rect:
         serializedVersion: 2
-        x: 1337
-        y: 37
-        width: 150
-        height: 174
+        x: 685
+        y: 493
+        width: 134
+        height: 149
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56cc170756e6746459a94e434448cef0
-      internalID: 605685033
+      spriteID: fb504c26b07c21d4085ef275f95a7283
+      internalID: 1662785767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_53
+      name: SpriteModerno_37
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 37
-        width: 150
-        height: 170
+        x: 829
+        y: 493
+        width: 133
+        height: 146
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90b628f02c843db41af2805b3b15d35e
-      internalID: 928553297
+      spriteID: fba3918b20d1b804d8a2d9ecf4d7f2da
+      internalID: 1612788991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_54
+      name: IdleFuturistaMorir1
       rect:
         serializedVersion: 2
-        x: 1673
-        y: 37
-        width: 149
+        x: 64
+        y: 286
+        width: 119
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b3ae534ae7ff4db057e7d4f85f1e9
+      internalID: 2125640664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaMorir2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 286
+        width: 136
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c776915902e704ab2356898d2eaff3
+      internalID: 162429355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaMorir3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 282
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dff0089946f754ebda4cf19a684717
+      internalID: -1674663020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaMorir4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 286
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deeba003fab2124495fbfbf9542a796
+      internalID: 1623327673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaMorir5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 286
+        width: 170
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f51eb608623064c9e173cd2c1de32f
+      internalID: 1574830626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 116
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e046739e280b6a4db76c434f1398a84
+      internalID: -1864486899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 42
+        width: 116
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c5fb5955c73b47a09e024bd7e2112
+      internalID: -2007869353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 42
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a0d5948e66ac49a7ee854b97b5048
+      internalID: -913314677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 42
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96326c45cb6065f4f84bb12db51cd40e
+      internalID: 155814345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 42
+        width: 141
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c90ef46839e7459464a6d6b98f730
+      internalID: -580193596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 42
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed231374f1c5a4e9384d7afd4d7313
+      internalID: -1210146918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 41
+        width: 141
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43ca1a214a83a5e4baf28238002235ae
-      internalID: 1812052527
+      spriteID: 4f6ff991f75691e449a1533c09964dad
+      internalID: -60316193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguo_55
+      name: IdleFuturistaCaminar8
       rect:
         serializedVersion: 2
-        x: 1841
-        y: 37
-        width: 146
-        height: 178
+        x: 1101
+        y: 42
+        width: 125
+        height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42d4ef665ef6a6c4da8e45b63e2b65aa
-      internalID: -961586957
+      spriteID: c37fb8e40b41a4a488be46555cb8e412
+      internalID: 1160196593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar9
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 42
+        width: 118
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17906ef8a3364fe49818a626de7b3943
+      internalID: -1578769209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar10
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 42
+        width: 110
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a0e1ab1210804b94e752acb1d8850
+      internalID: -1767352285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar11
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 42
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac046222abe95448c40c8d39e2892c
+      internalID: -220290156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar12
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 42
+        width: 124
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027bde19d1ffe64fa42c537f252054b
+      internalID: -363031283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar13
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 42
+        width: 125
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb362481a0b884d8779b538f57679d
+      internalID: -696963460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar14
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 42
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6fc9a6caeced439edf3b23aa15d80
+      internalID: -764370160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuturistaCaminar15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 42
+        width: 118
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac540e38266878b4e8eaad30e91b9a85
+      internalID: -1056174136
       vertices: []
       indices: 
       edges: []
@@ -1270,62 +1312,64 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteAntiguo_6: 36488500
-      SpriteAntiguo_29: 1498432341
-      SpriteAntiguo_31: 1680344322
-      SpriteAntiguo_42: 2125330625
-      SpriteAntiguo_21: 1344369843
-      SpriteAntiguo_1: 2009914236
-      SpriteAntiguo_34: -606263756
-      SpriteAntiguo_52: 605685033
-      SpriteAntiguo_50: 1182777108
-      SpriteAntiguo_2: -1438212509
-      SpriteAntiguo_24: 70534099
-      SpriteAntiguo_18: 1154831397
-      SpriteAntiguo_54: 1812052527
-      SpriteAntiguo_41: 1845907550
-      SpriteAntiguo_37: 635680960
-      SpriteAntiguo_15: -1205585227
-      SpriteAntiguo_30: 48771812
-      SpriteAntiguo_49: 844504462
-      SpriteAntiguo_5: 1597767291
-      SpriteAntiguo_7: 2100926396
-      SpriteAntiguo_27: -1317748498
-      SpriteAntiguo_32: -2115223940
-      SpriteAntiguo_26: -1133792478
-      SpriteAntiguo_3: -560653024
-      SpriteAntiguo_20: 1667599760
-      SpriteAntiguo_11: 1421221432
-      SpriteAntiguo_36: -849407525
-      SpriteAntiguo_16: -1504055456
-      SpriteAntiguo_47: 2094462063
-      SpriteAntiguo_13: -1090974175
-      SpriteAntiguo_8: 662142357
-      SpriteAntiguo_44: -965605503
-      SpriteAntiguo_28: 1187351514
-      SpriteAntiguo_22: -203928672
-      SpriteAntiguo_35: -1344065071
-      SpriteAntiguo_10: 1517416253
-      SpriteAntiguo_53: 928553297
-      SpriteAntiguo_25: 1727623729
-      SpriteAntiguo_51: -1909654491
-      SpriteAntiguo_12: 1807745650
-      SpriteAntiguo_0: 298078183
-      SpriteAntiguo_33: 549076771
-      SpriteAntiguo_38: 856538033
-      SpriteAntiguo_39: -678362238
-      SpriteAntiguo_55: -961586957
-      SpriteAntiguo_14: -2006727521
-      SpriteAntiguo_4: 1854602453
-      SpriteAntiguo_46: -1852987574
-      SpriteAntiguo_9: 1815668255
-      SpriteAntiguo_19: -757169464
-      SpriteAntiguo_23: -1339242134
-      SpriteAntiguo_40: -1170771960
-      SpriteAntiguo_17: 1734276464
-      SpriteAntiguo_43: 1974555038
-      SpriteAntiguo_45: -372790587
-      SpriteAntiguo_48: -1495219051
+      IdleFuturistaSaltar4: -1262545583
+      SpriteModerno_21: -91910714
+      SpriteModerno_31: -1892393443
+      IdleFuturistaPegar4: -1733988021
+      IdleFuturistaCaminar10: -1767352285
+      IdleFuturistaPegar7: -921764476
+      IdleFuturistaSaltar1: -38373699
+      SpriteModerno_33: 1456385091
+      SpriteModerno_20: 1290464760
+      SpriteModerno_34: 144651848
+      IdleFuturistaMorir4: 1623327673
+      IdleFuturista3: 631606637
+      SpriteModerno_32: -1410238934
+      IdleFuturista2: 357664928
+      SpriteModerno_24: -937937309
+      IdleFuturistaSaltar5: -463786832
+      IdleFuturistaCaminar9: -1578769209
+      IdleFuturistaCaminar3: -913314677
+      SpriteModerno_26: 1205482291
+      IdleFuturistaPegar2: 332188625
+      IdleFuturistaCaminar8: 1160196593
+      SpriteModerno_30: 1186181430
+      SpriteModerno_36: 1662785767
+      IdleFuturistaSaltar6: -1483578855
+      SpriteModerno_22: 2000895615
+      IdleFuturistaCaminar12: -363031283
+      IdleFuturistaMorir1: 2125640664
+      IdleFuturistaCaminar14: -764370160
+      IdleFuturista5: -1782378374
+      SpriteModerno_23: -1935796281
+      IdleFuturistaCaminar6: -1210146918
+      IdleFuturistaCaminar4: 155814345
+      SpriteModerno_6: -973266310
+      IdleFuturistaPegar6: 2108075947
+      SpriteModerno_37: 1612788991
+      IdleFuturistaPegar5: 81112547
+      IdleFuturistaSaltar3: -430194551
+      IdleFuturistaCaminar5: -580193596
+      IdleFuturistaMorir3: -1674663020
+      IdleFuturistaCaminar15: -1056174136
+      SpriteModerno_35: 1175455991
+      IdleFuturista6: -1659065530
+      IdleFuturistaCaminar1: -1864486899
+      SpriteModerno_28: 1255440063
+      SpriteModerno_29: -1892934274
+      IdleFuturistaPegar3: 914947866
+      IdleFuturistaMorir2: 162429355
+      IdleFuturistaSaltar2: 566964210
+      IdleFuturistaCaminar2: -2007869353
+      IdleFuturista4: -1902081594
+      IdleFuturistaCaminar11: -220290156
+      IdleFuturistaMorir5: 1574830626
+      SpriteModerno_25: -1604804
+      IdleFuturistaCaminar13: -696963460
+      IdleFuturistaCaminar7: -60316193
+      IdleFuturista1: -504200143
+      SpriteModerno_27: 1563415627
+      IdleFuturistaPegar1: 230300622
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
