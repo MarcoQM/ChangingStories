@@ -35,7 +35,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedievalPegar
+  m_Name: IdleJugadorFuturistaPegar
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -48,7 +48,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f254744841000604a920f2dd671fd219, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9d6f68fbdda3a3349930a1f163b58fcc, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -86,7 +86,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedievalCaminar
+  m_Name: IdleJugadorFuturistaCaminar
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -100,7 +100,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1270e14f80ba0594da788dc11f711905, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4e82a9ae5653cd04a8163a23a54a9bfa, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -273,7 +273,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedievalSaltarBajada
+  m_Name: IdleJugadorFuturistaSaltarBajada
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -288,7 +288,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1ef32541cebc36c46a8078aacef9b58d, type: 2}
+  m_Motion: {fileID: 7400000, guid: 06c12b5cb1c995a42a48d72c6985474c, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -357,7 +357,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedievalSaltarSubida
+  m_Name: IdleJugadorFuturistaSaltarSubida
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -372,7 +372,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 3816ce1deb9ad124a929c6a339745124, type: 2}
+  m_Motion: {fileID: 7400000, guid: 03ca67271e4ff8344a13a30fc4d30bb4, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -385,7 +385,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedieval
+  m_Name: IdleJugadorFuturista
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -399,7 +399,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 8c30f1aa9a1e1bf43a2c3ae6094ba410, type: 2}
+  m_Motion: {fileID: 7400000, guid: f44f5a4058de553459eb39b935b18233, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -440,7 +440,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IdleJugadorMedievalMorir
+  m_Name: IdleJugadorFuturistaMorir
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -453,7 +453,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e67b11457e8017b4a86c4f126a5ed7fd, type: 2}
+  m_Motion: {fileID: 7400000, guid: 362446559b0c5544ca267af0996f71b4, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
