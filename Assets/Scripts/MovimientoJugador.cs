@@ -21,15 +21,24 @@ public class MovimientoJugador : MonoBehaviour
     [SerializeField] private bool enSuelo;
     private bool salto = false;
 
+    //Animacion
+    [Header("Animacion")]
+    private Animator animator;
+
 
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
         movimientoHorizontal = Input.GetAxisRaw("Horizontal") * velocidadDelMovimiento;
+
+        animator.SetFloat("Horizontal", Mathf.Abs(movimientoHorizontal));
+
+        animator.SetFloat("VelocidadY", rb2D.velocity.y);
 
         if(Input.GetButtonDown("Jump"))
         {
@@ -40,6 +49,8 @@ public class MovimientoJugador : MonoBehaviour
     private void FixedUpdate() 
     {
         enSuelo = Physics2D.OverlapBox(controladorSuelo.position, dimensionesCaja, 0f, queEsSuelo);
+
+        animator.SetBool("enSuelo", enSuelo);
         //Mover
         Mover(movimientoHorizontal * Time.fixedDeltaTime, salto);
         salto = false;
