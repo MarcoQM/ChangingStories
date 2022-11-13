@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 1c234da3e7eb5d74e96f6e508d3ddfbe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1137
+        width: 217
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c2bd4d8515f54c87783cd1fb26bcf
+      internalID: 1646765500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 865
+        width: 229
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50807c21777a7b2448a3333569cd405d
+      internalID: -1218714396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 865
+        width: 228
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0248c8375e974fa0967206ca079e6
+      internalID: 1754674329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 865
+        width: 225
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5154f27a843d44844a86639ef19147fa
+      internalID: -1851300814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 865
+        width: 230
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e6a729bb6ff64dae835c3a45c55f2
+      internalID: -787543899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_6
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 865
+        width: 241
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e44c7aacaece6249be28a1d0171f635
+      internalID: -1471918450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 629
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff739be484ba04cad4a56ad0632c3a
+      internalID: -876027497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 630
+        width: 228
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d50203dc8cdf94381ca2492c888a0b
+      internalID: -984323745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 630
+        width: 458
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd353b34fe64a4d91bd8b1982eff67
+      internalID: -237121940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 309
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4fb17b6487e4443859c485543928cb
+      internalID: 1244564331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 309
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908d01b5a0cc214449382dcd7663ddee
+      internalID: 1925380956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 309
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5ddf53930c074d87058287083c8a3
+      internalID: -1275732618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 309
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ad6fe0793c3c4d94ea1f9df27ac9b
+      internalID: -1808333734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_14
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 309
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0f2767801fbd4ebbe4baa235b5eaa
+      internalID: -1480416474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_15
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 309
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0247aa0a1f86e43979a7a3a3c47069
+      internalID: 1440070962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 217
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18627c36ea09324c914394e74c60362
+      internalID: -41382814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 49
+        width: 209
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680381b5fc637e74ba6d697aa96596cd
+      internalID: -527070092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 49
+        width: 205
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd9767c74f3e74784a22f8ded27173
+      internalID: -411918068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 49
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770aa66d1373ce4fb3bec2ebd668e71
+      internalID: -1370009591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_20
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 49
+        width: 206
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c1b3b9e9b5bd4f8648fc3f96f73b0
+      internalID: 1713751924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoComun_21
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 49
+        width: 208
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ce89d3e5c1a04aba66e6f31b49fc3
+      internalID: -368259345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteMedievalEnemigoComun_6: -1471918450
+      SpriteMedievalEnemigoComun_16: -41382814
+      SpriteMedievalEnemigoComun_4: -1851300814
+      SpriteMedievalEnemigoComun_10: 1244564331
+      SpriteMedievalEnemigoComun_14: -1480416474
+      SpriteMedievalEnemigoComun_15: 1440070962
+      SpriteMedievalEnemigoComun_17: -527070092
+      SpriteMedievalEnemigoComun_9: -237121940
+      SpriteMedievalEnemigoComun_20: 1713751924
+      SpriteMedievalEnemigoComun_2: -1218714396
+      SpriteMedievalEnemigoComun_18: -411918068
+      SpriteMedievalEnemigoComun_5: -787543899
+      SpriteMedievalEnemigoComun_21: -368259345
+      SpriteMedievalEnemigoComun_11: 1925380956
+      SpriteMedievalEnemigoComun_1: -1075276235
+      SpriteMedievalEnemigoComun_8: -984323745
+      SpriteMedievalEnemigoComun_12: -1275732618
+      SpriteMedievalEnemigoComun_19: -1370009591
+      SpriteMedievalEnemigoComun_3: 1754674329
+      SpriteMedievalEnemigoComun_13: -1808333734
+      SpriteMedievalEnemigoComun_0: 1646765500
+      SpriteMedievalEnemigoComun_7: -876027497
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

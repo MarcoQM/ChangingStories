@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: b1ffc9f54dc163246841b633350a2a7f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1222
+        width: 234
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575ff25a84e30c943baac8d4ef501523
+      internalID: 933869600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1202
+        width: 209
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70790a17af49a24f893828ebdc341f1
+      internalID: -1245565420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1160
+        width: 237
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c984bdc60ebff4c87d4f8e056f6de2
+      internalID: -226390743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1202
+        width: 206
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a59018183ec994699302f3911ad69a
+      internalID: 561681102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 982
+        width: 246
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb46ee7045bdd1d43ae26d3bafeb3982
+      internalID: 1952194533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 976
+        width: 255
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025416f6062ecba4887f4b7774472465
+      internalID: -1027468817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 986
+        width: 260
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670eb26413f82d49bdc4d5d4159c050
+      internalID: -2145702573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 785
+        width: 197
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50c06155686d64a9899905b53b8337
+      internalID: -2066781880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 786
+        width: 191
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab5692dfacb0a44a74aacc0056c501
+      internalID: 1959621832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 493
+        width: 180
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a7ddf8c361814ba4998d38a1f7a84
+      internalID: 2084440946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 493
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70341f3220f7734b8f6c6a4ea19080a
+      internalID: 940257245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 493
+        width: 182
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c794acbc644cfc449c3830d0cd0739c
+      internalID: 713810376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 493
+        width: 181
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89343f5531bf8f0439c2c114e28d5f4a
+      internalID: -465177182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 217
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57745fcbba1434da31c1063d9a97b1
+      internalID: -1887058853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 294
+        width: 226
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e36f3f8521f6c4aa19681cc8aeb57f
+      internalID: 2084772119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 289
+        width: 234
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792eb4267559c604fa0a1b27d897bd82
+      internalID: -845258614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_17
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 294
+        width: 221
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6c00e489108c439b6098b4bb0a38e
+      internalID: 924651153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 61
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa0556e8223ff49b6e88d23527eb16
+      internalID: 396657335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 61
+        width: 181
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37568cbd74cf5e84a9d9669d71e09910
+      internalID: 42151637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_20
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 61
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b790246c22626488d1e2df7c735902
+      internalID: 343043729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 61
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c03db23402d1cb4f9190e82ae666f2e
+      internalID: -638549229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_22
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 61
+        width: 209
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf417f447021442b91334f8d93059e
+      internalID: -1057416811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 67
+        width: 234
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4c4a5a565a984ea9d5af8cc0e19d5
+      internalID: 794023734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_23
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 66
+        width: 247
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acf830e3d20e346a05fd1605e3eaef
+      internalID: -779593839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoVolador_24
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 63
+        width: 260
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02539d372b327164aa534360b9113104
+      internalID: 926158299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAntiguoEnemigoVolador_14: -1887058853
+      SpriteAntiguoEnemigoVolador_4: 794023734
+      SpriteAntiguoEnemigoVolador_6: -1027468817
+      SpriteAntiguoEnemigoVolador_10: 2084440946
+      SpriteAntiguoEnemigoVolador_18: 396657335
+      SpriteAntiguoEnemigoVolador_16: -845258614
+      SpriteAntiguoEnemigoVolador_17: 924651153
+      SpriteAntiguoEnemigoVolador_20: 343043729
+      SpriteAntiguoEnemigoVolador_22: -1057416811
+      SpriteAntiguoEnemigoVolador_1: -1245565420
+      SpriteAntiguoEnemigoVolador_21: -638549229
+      SpriteAntiguoEnemigoVolador_19: 42151637
+      SpriteAntiguoEnemigoVolador_12: 713810376
+      SpriteAntiguoEnemigoVolador_24: 926158299
+      SpriteAntiguoEnemigoVolador_3: 561681102
+      SpriteAntiguoEnemigoVolador_9: 1959621832
+      SpriteAntiguoEnemigoVolador_11: 940257245
+      SpriteAntiguoEnemigoVolador_13: -465177182
+      SpriteAntiguoEnemigoVolador_15: 2084772119
+      SpriteAntiguoEnemigoVolador_0: 933869600
+      SpriteAntiguoEnemigoVolador_2: -226390743
+      SpriteAntiguoEnemigoVolador_5: 1952194533
+      SpriteAntiguoEnemigoVolador_7: -2145702573
+      SpriteAntiguoEnemigoVolador_8: -2066781880
+      SpriteAntiguoEnemigoVolador_23: -779593839
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

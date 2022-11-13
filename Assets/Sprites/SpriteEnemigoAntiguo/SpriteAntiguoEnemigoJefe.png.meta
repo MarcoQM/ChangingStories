@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 4ac3e4a3d63830243a02a01693ff5124
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1025
+        width: 239
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8cff676ed6f7478a2a986ce20b45a
+      internalID: 876761921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1026
+        width: 241
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346641083babf1429722b8f1fd77b29
+      internalID: 1389261045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1025
+        width: 239
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ed7e22e2c3b849866aa300f03a3d9
+      internalID: -838332898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1026
+        width: 239
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0c7ea7137dc8499399332b6eed1dd
+      internalID: 305198213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1026
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11533bb05981c4195f6fc1ebce810a
+      internalID: -556764125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1026
+        width: 239
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851205013d12a149b5d9c45d17d6472
+      internalID: -1547117936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 746
+        width: 219
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef752053aea07d468dda32649ff2b32
+      internalID: 831959165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 746
+        width: 214
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2932eccd8cbe144b558f62df0af2e4
+      internalID: 903265061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 746
+        width: 230
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7616b6c69c85e498be0f104062cc42
+      internalID: -1110635427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 746
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fd4165f838f84b85f835238194211
+      internalID: 608334758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 746
+        width: 228
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dddd5af090174989fd556f8d37e2d
+      internalID: 120433500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_14
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 746
+        width: 217
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330454d6de51c6499ea252a8ec19f4a
+      internalID: 1003259440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_15
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 746
+        width: 215
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536af908e6a39d44da7c031ff75ce8f0
+      internalID: -1307908455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 545
+        width: 236
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc25876b443bc943acd48dd8bb5e2bb
+      internalID: -1975191265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 546
+        width: 245
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7982e427b5a72047a2d670c7d248b40
+      internalID: -905948807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 545
+        width: 232
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c254f7c3031734299b5ced1d94bdef
+      internalID: 2057087846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 317
+        width: 236
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec05e648cb3ee42abbc418235ab528
+      internalID: -1790927379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 317
+        width: 239
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589a7c5bc91d83428e973aaa9ec065d
+      internalID: -1236451318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 317
+        width: 244
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc44751c7867964b9987273c5c472d7
+      internalID: -369723894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_22
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 317
+        width: 274
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c35608e78b784c94610b14af6cd92
+      internalID: -935465916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_23
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 314
+        width: 287
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a65a91155ceb847818a92025be0fce
+      internalID: -2079694727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5dd09cd812b7a42b99beb18214ec33
+      internalID: 80019114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 253
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35edebf8d6953428645a7d3fd7ac2b
+      internalID: -1511345153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 76
+        width: 486
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612fa87f9190b840beb66ee7003a1ba
+      internalID: -1152294566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_28
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 78
+        width: 241
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84f3f9822f9a042b90a870b740c35f
+      internalID: 1966054870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_29
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 76
+        width: 239
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c6abb320ac43b45b1320fa352b8892
+      internalID: 2008138933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 76
+        width: 239
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f1259c67545c43b0c0384759d865a
+      internalID: -1143115644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_31
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 78
+        width: 483
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645da2d43b9466344855eadae8be41c8
+      internalID: 2097200247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_32
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 78
+        width: 238
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc378c024c9f324e9156def5ac8db63
+      internalID: -1378214827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_33
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 78
+        width: 244
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a060061f5565c44a4ac35efd417b94
+      internalID: -1917178117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_34
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 78
+        width: 249
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924a963d5962b24b88890953ab03f35
+      internalID: -304694119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_35
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 78
+        width: 239
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6f9e825e877449875099790be0a71
+      internalID: -221265463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_36
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 253
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db98e3f3857fe4ca97b40af313c258
+      internalID: 463826725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoJefe_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 238
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3c07d71c0c7b49b5d6a0dd35c8738
+      internalID: -2067556797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAntiguoEnemigoJefe_15: -1307908455
+      SpriteAntiguoEnemigoJefe_30: -1143115644
+      SpriteAntiguoEnemigoJefe_33: -1917178117
+      SpriteAntiguoEnemigoJefe_28: 1966054870
+      SpriteAntiguoEnemigoJefe_7: -1882069152
+      SpriteAntiguoEnemigoJefe_12: 608334758
+      SpriteAntiguoEnemigoJefe_35: -221265463
+      SpriteAntiguoEnemigoJefe_19: -1790927379
+      SpriteAntiguoEnemigoJefe_38: 689784210
+      SpriteAntiguoEnemigoJefe_26: -1511345153
+      SpriteAntiguoEnemigoJefe_34: -304694119
+      SpriteAntiguoEnemigoJefe_41: -1739862841
+      SpriteAntiguoEnemigoJefe_10: 903265061
+      SpriteAntiguoEnemigoJefe_37: -2067556797
+      SpriteAntiguoEnemigoJefe_42: 1781229726
+      SpriteAntiguoEnemigoJefe_16: -1975191265
+      SpriteAntiguoEnemigoJefe_0: -2002760122
+      SpriteAntiguoEnemigoJefe_31: 2097200247
+      SpriteAntiguoEnemigoJefe_4: -838332898
+      SpriteAntiguoEnemigoJefe_36: 463826725
+      SpriteAntiguoEnemigoJefe_1: 957831798
+      SpriteAntiguoEnemigoJefe_20: -1236451318
+      SpriteAntiguoEnemigoJefe_9: 831959165
+      SpriteAntiguoEnemigoJefe_24: 30751564
+      SpriteAntiguoEnemigoJefe_23: -2079694727
+      SpriteAntiguoEnemigoJefe_14: 1003259440
+      SpriteAntiguoEnemigoJefe_18: 2057087846
+      SpriteAntiguoEnemigoJefe_27: -1152294566
+      SpriteAntiguoEnemigoJefe_17: -905948807
+      SpriteAntiguoEnemigoJefe_6: -556764125
+      SpriteAntiguoEnemigoJefe_21: -369723894
+      SpriteAntiguoEnemigoJefe_22: -935465916
+      SpriteAntiguoEnemigoJefe_5: 305198213
+      SpriteAntiguoEnemigoJefe_29: 2008138933
+      SpriteAntiguoEnemigoJefe_32: -1378214827
+      SpriteAntiguoEnemigoJefe_8: -1547117936
+      SpriteAntiguoEnemigoJefe_25: 80019114
+      SpriteAntiguoEnemigoJefe_13: 120433500
+      SpriteAntiguoEnemigoJefe_2: 876761921
+      SpriteAntiguoEnemigoJefe_40: -938686969
+      SpriteAntiguoEnemigoJefe_11: -1110635427
+      SpriteAntiguoEnemigoJefe_39: -725206780
+      SpriteAntiguoEnemigoJefe_3: 1389261045
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

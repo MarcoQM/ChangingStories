@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 4e7123547424454488eb9cfb31fb8ad1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 797
+        width: 250
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf77c059198cbd4580bb0fcde90b28f
+      internalID: 703418613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 797
+        width: 250
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f745f51d1a2e4f953a10bfb1e2654
+      internalID: -1271432244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 797
+        width: 250
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb8dffcc8908eb4b828e72f3023ae4f
+      internalID: 1254318960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 797
+        width: 248
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ff5c7274210144be1d6aa518da003
+      internalID: -613796737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_4
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 797
+        width: 248
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e9afbd1702eb44b263e0cfe4e8b9e
+      internalID: 336808212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 550
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13335ffd01aec724e88728934daf15e9
+      internalID: 1427314447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 550
+        width: 242
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d8a782de9ce294cb3546f225a06578
+      internalID: -587711167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 550
+        width: 228
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23076d47a9e3514a999192e104a36d5
+      internalID: -1265488821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_9
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 550
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc38930befa234d85d6a1b2aa25dff
+      internalID: -1945983972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_10
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 550
+        width: 317
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40278abac50e6ef4280080d1ff815310
+      internalID: 1851100861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 281
+        width: 253
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f5fb1a75037d4494df46350569cd6
+      internalID: -2033500234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 281
+        width: 254
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9e7904f92dc74c9879c84ae3405d7
+      internalID: 514805683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 281
+        width: 261
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa0af95ac8e2e44a545518ce7eb07b
+      internalID: 420950191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 281
+        width: 253
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cfb15ad70004746805288003ad753c
+      internalID: -1887908246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_15
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 281
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740ac499fbb49046b6047b7a31b4297
+      internalID: -327877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_16
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 281
+        width: 257
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004fb3c11432b0449899c9e835a90f0
+      internalID: 835141027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_17
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 281
+        width: 261
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa65298b86073145839bad230a1d9e4
+      internalID: 879297736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_18
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 281
+        width: 258
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04b72fb4ea6ec41a6197df42c3c5d5
+      internalID: -178883669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_19
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 281
+        width: 253
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf73c1a7f7b0a0347904177f60142677
+      internalID: -1522271738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26697d2554a286f4e9dba0e019e30357
+      internalID: -1322523432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 45
+        width: 245
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54883c92bc1ad64abc50125fc9f429a
+      internalID: -951067639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 45
+        width: 244
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c5a979fedee54c94c7e038e4e655f
+      internalID: 1138159201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_23
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 45
+        width: 245
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791f8d7e9ce30e428b95485ba8891d1
+      internalID: 1058438180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_24
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 45
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c835567bc12ea049b5acf8e11d60cbf
+      internalID: 1919011461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_25
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 45
+        width: 248
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b22d298df641ba4d952c94141e5bbdd
+      internalID: 1929563865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_26
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 45
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef6cb543fa615c4396700b85829800c
+      internalID: -745450097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAntiguoEnemigoComun_27
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 45
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ddcc46e8478240a5d83cf360ae4b9
+      internalID: 739377552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAntiguoEnemigoComun_25: 1929563865
+      SpriteAntiguoEnemigoComun_18: -178883669
+      SpriteAntiguoEnemigoComun_13: 420950191
+      SpriteAntiguoEnemigoComun_3: -613796737
+      SpriteAntiguoEnemigoComun_14: -1887908246
+      SpriteAntiguoEnemigoComun_4: 336808212
+      SpriteAntiguoEnemigoComun_20: -1322523432
+      SpriteAntiguoEnemigoComun_15: -327877084
+      SpriteAntiguoEnemigoComun_19: -1522271738
+      SpriteAntiguoEnemigoComun_10: 1851100861
+      SpriteAntiguoEnemigoComun_16: 835141027
+      SpriteAntiguoEnemigoComun_1: -1271432244
+      SpriteAntiguoEnemigoComun_21: -951067639
+      SpriteAntiguoEnemigoComun_5: -9117040
+      SpriteAntiguoEnemigoComun_12: 514805683
+      SpriteAntiguoEnemigoComun_0: 703418613
+      SpriteAntiguoEnemigoComun_7: -587711167
+      SpriteAntiguoEnemigoComun_9: -1945983972
+      SpriteAntiguoEnemigoComun_11: -2033500234
+      SpriteAntiguoEnemigoComun_27: 739377552
+      SpriteAntiguoEnemigoComun_17: 879297736
+      SpriteAntiguoEnemigoComun_24: 1919011461
+      SpriteAntiguoEnemigoComun_22: 1138159201
+      SpriteAntiguoEnemigoComun_8: -1265488821
+      SpriteAntiguoEnemigoComun_23: 1058438180
+      SpriteAntiguoEnemigoComun_26: -745450097
+      SpriteAntiguoEnemigoComun_6: 1427314447
+      SpriteAntiguoEnemigoComun_2: 1254318960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

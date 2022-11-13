@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 015cc333a179af04ba1834c94ff9d362
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 862
+        width: 425
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee98210ad1a71c047a679b79c0fa111d
+      internalID: 503266436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 814
+        width: 309
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807cc4e78563b941b44fd7944d4d497
+      internalID: 40148889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_3
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 834
+        width: 296
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737880c790d6df0429fc4cf226433f97
+      internalID: 502657610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_4
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 814
+        width: 308
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24685d1c5c8bbd4fb00fc359806e794
+      internalID: 149985292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_5
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 838
+        width: 247
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550dc5f6370e314ba7f1125cc8ab3a2
+      internalID: 1901539306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 565
+        width: 368
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e435300ab2394e97aa9fb3bd7392a
+      internalID: 640847211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 562
+        width: 293
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9adf48a6269e7840b70838c59aead00
+      internalID: 1769072453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_8
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 565
+        width: 224
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8dece1b51d1d4aad3e7c0631012f6
+      internalID: 1830815119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_9
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 562
+        width: 294
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0d76d7fefc0e449c2d05d913a842d
+      internalID: 1781894753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_10
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 564
+        width: 213
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed763514d857f9d4e9653e1a10aa6222
+      internalID: 197331356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 302
+        width: 365
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879952930318a440984ed09391de14d
+      internalID: -1803869590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 298
+        width: 293
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c46ca88a58ed4b9caf6766cbfcea9
+      internalID: 2069963675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_13
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 302
+        width: 224
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad08533dac3e2a46bd6746b72379a48
+      internalID: -823864337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_14
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 298
+        width: 294
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ad69b516463cd4aa4d72998cbac5e3
+      internalID: -2105014689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_15
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 294
+        width: 213
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a73c825014794b95da71e597e7552
+      internalID: -409747041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 428
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a127c994de56441b9c55791a786868
+      internalID: 1876263529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 29
+        width: 301
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986a755ec182924e82a78a61c946e6d
+      internalID: -580522139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 309
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1b39e0f6b20594abd35c9bd969d5c6
+      internalID: 960851856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_19
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 28
+        width: 304
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3946d1c6b44943a6df742bad63070
+      internalID: -1207154033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoVolador_20
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 9
+        width: 278
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408839ad709a7b048ad263caa14f4d08
+      internalID: 658356009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteMedievalEnemigoVolador_2: 40148889
+      SpriteMedievalEnemigoVolador_6: 640847211
+      SpriteMedievalEnemigoVolador_8: 1830815119
+      SpriteMedievalEnemigoVolador_16: 1876263529
+      SpriteMedievalEnemigoVolador_0: 1663644686
+      SpriteMedievalEnemigoVolador_10: 197331356
+      SpriteMedievalEnemigoVolador_5: 1901539306
+      SpriteMedievalEnemigoVolador_7: 1769072453
+      SpriteMedievalEnemigoVolador_13: -823864337
+      SpriteMedievalEnemigoVolador_11: -1803869590
+      SpriteMedievalEnemigoVolador_9: 1781894753
+      SpriteMedievalEnemigoVolador_17: -580522139
+      SpriteMedievalEnemigoVolador_18: 960851856
+      SpriteMedievalEnemigoVolador_20: 658356009
+      SpriteMedievalEnemigoVolador_19: -1207154033
+      SpriteMedievalEnemigoVolador_12: 2069963675
+      SpriteMedievalEnemigoVolador_15: -409747041
+      SpriteMedievalEnemigoVolador_14: -2105014689
+      SpriteMedievalEnemigoVolador_1: 503266436
+      SpriteMedievalEnemigoVolador_3: 502657610
+      SpriteMedievalEnemigoVolador_4: 149985292
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

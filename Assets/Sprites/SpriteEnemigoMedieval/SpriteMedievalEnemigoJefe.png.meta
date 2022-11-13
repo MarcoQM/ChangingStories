@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 83f009e964269144cba267aaca60102b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1408
+        width: 281
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2860f533c3a474f99c0264f6522e1f
+      internalID: -1657729849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1401
+        width: 278
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60a98789e2a394a9bb9f8fd1e0e55c
+      internalID: -1366028508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1410
+        width: 278
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe85fbe16c0924fb7b4d52bb6402fb
+      internalID: 1405741385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 269
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8b54d5425d2344a745420be2bc0b5
+      internalID: 151005005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1094
+        width: 301
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5b72c03385fb4daf87ab3fd70a006
+      internalID: -760908937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_6
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1089
+        width: 296
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7abd2ba53ccc4d8866640e3943418
+      internalID: -607261857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1086
+        width: 281
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488966df4b67014c95a2ede9d2bba5d
+      internalID: -373476081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_8
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1086
+        width: 248
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a94986f5ef8644483d7a9f1a232479
+      internalID: 465169519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_9
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1089
+        width: 245
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b6f2fcffc60b479bad6518da62f69
+      internalID: -1944895541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_10
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1089
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad6c5d977f3c4469730670d8963b59
+      internalID: -341482593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 893
+        width: 280
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f638f6f6e0784199f207809031634
+      internalID: -1295578432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 901
+        width: 274
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536272a5fa54674dbb4fd2c1c02b156
+      internalID: -480272029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 901
+        width: 289
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea0e6e089701e4985f0e2500a3abcb
+      internalID: -1349859857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 906
+        width: 279
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3b1d5f50ba3a4eb7ec52aaa96de95
+      internalID: 2014271124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_15
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 898
+        width: 296
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c68478d871ec4e9d08d4820f56cfc
+      internalID: -1486241866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 589
+        width: 283
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587490f771e2e2047b29319fb28a1bf5
+      internalID: 940563326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 598
+        width: 296
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4251e3943716741b0ed071597b9c7d
+      internalID: -26166632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 554
+        width: 269
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205bbf323beae346b16ff3335821854
+      internalID: -1438887044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_19
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 566
+        width: 281
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538988e13863ae74caba3f96ad2c2135
+      internalID: 795955892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_20
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 566
+        width: 302
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023cdcf407c28124f9f2fab2b77bae1c
+      internalID: -801113288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_21
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 574
+        width: 285
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210233c6ad94c64ebd245651e606195
+      internalID: 73909590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_22
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 574
+        width: 285
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe248e482adcc48b410bc79eabfbbe
+      internalID: 426662225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_23
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 490
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190ababdc2123e479e3e43e18b80f54
+      internalID: 1058454551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 265
+        width: 294
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abc5e6f22f373438787ac1364c2155
+      internalID: -1141798825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 282
+        width: 266
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789f5d67d95bdc4eb18b1d63968cb9b
+      internalID: 21156729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_26
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 313
+        width: 285
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25440f9a276a13d48bf12d6e3e241426
+      internalID: 166917411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_27
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 257
+        width: 277
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecab9ebbb8d7ad46a41b819be3b8470
+      internalID: -1056017427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_28
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 262
+        width: 288
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a88912526d0a4484693095777820b
+      internalID: 1261180276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_29
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 265
+        width: 298
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7ae56ee78b2845b5653371cbe7283
+      internalID: 1537213787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 45
+        width: 296
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49a1e74d5554a4d9cecd458a1272b7
+      internalID: 374345640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_31
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 42
+        width: 297
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d439789dedab040bf8fd1a7b54e56a
+      internalID: 224106266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 38
+        width: 293
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe51b1b9d9d814285855a8298abaf7
+      internalID: 2117411059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_33
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 38
+        width: 282
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d76dc1a7dadf046bf0ae1bace90705
+      internalID: -2024160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteMedievalEnemigoJefe_34
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 42
+        width: 298
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12126d60e0fc847ba0d84882754c3f
+      internalID: 2057583772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteMedievalEnemigoJefe_17: -26166632
+      SpriteMedievalEnemigoJefe_14: 2014271124
+      SpriteMedievalEnemigoJefe_9: -1944895541
+      SpriteMedievalEnemigoJefe_27: -1056017427
+      SpriteMedievalEnemigoJefe_0: -1657729849
+      SpriteMedievalEnemigoJefe_32: 2117411059
+      SpriteMedievalEnemigoJefe_28: 1261180276
+      SpriteMedievalEnemigoJefe_2: 1405741385
+      SpriteMedievalEnemigoJefe_7: -373476081
+      SpriteMedievalEnemigoJefe_11: -1295578432
+      SpriteMedievalEnemigoJefe_3: -695206127
+      SpriteMedievalEnemigoJefe_24: -1141798825
+      SpriteMedievalEnemigoJefe_5: -760908937
+      SpriteMedievalEnemigoJefe_10: -341482593
+      SpriteMedievalEnemigoJefe_19: 795955892
+      SpriteMedievalEnemigoJefe_4: 151005005
+      SpriteMedievalEnemigoJefe_30: 374345640
+      SpriteMedievalEnemigoJefe_13: -1349859857
+      SpriteMedievalEnemigoJefe_15: -1486241866
+      SpriteMedievalEnemigoJefe_31: 224106266
+      SpriteMedievalEnemigoJefe_21: 73909590
+      SpriteMedievalEnemigoJefe_25: 21156729
+      SpriteMedievalEnemigoJefe_34: 2057583772
+      SpriteMedievalEnemigoJefe_1: -1366028508
+      SpriteMedievalEnemigoJefe_20: -801113288
+      SpriteMedievalEnemigoJefe_29: 1537213787
+      SpriteMedievalEnemigoJefe_23: 1058454551
+      SpriteMedievalEnemigoJefe_18: -1438887044
+      SpriteMedievalEnemigoJefe_16: 940563326
+      SpriteMedievalEnemigoJefe_12: -480272029
+      SpriteMedievalEnemigoJefe_6: -607261857
+      SpriteMedievalEnemigoJefe_26: 166917411
+      SpriteMedievalEnemigoJefe_22: 426662225
+      SpriteMedievalEnemigoJefe_33: -2024160677
+      SpriteMedievalEnemigoJefe_8: 465169519
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

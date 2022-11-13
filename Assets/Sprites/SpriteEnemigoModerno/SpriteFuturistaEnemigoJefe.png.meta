@@ -1,0 +1,1245 @@
+fileFormatVersion: 2
+guid: 63097e4c51b651f4ab0d614bf51ab68e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1245
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9a0a57decf664dad8515777878b20
+      internalID: 338238515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1245
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e96c2f20ff8db449f5176de36882c3
+      internalID: 628038229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1245
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce4247aa67457408d7ae86f2c49bcb
+      internalID: -41789935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1245
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fc3693ff280f45aaa8bc5cb5e2a7e
+      internalID: -1481787099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1245
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788236d56e3a0ce47a58358be0f75288
+      internalID: -1448628312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1245
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650affaf233bcdb4495c7b155e44f59c
+      internalID: -1916001491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1161
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0fe34632395be47ab93e83de9b8d31
+      internalID: -1238508797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1161
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456790d7026d4c42afd42c4c93e4ab0
+      internalID: 431100984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1161
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0bc752605994408281e867458a08d
+      internalID: -1912305669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1161
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13931b49b118b2843a1501ca5a0751ea
+      internalID: 746910860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1161
+        width: 101
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d885690c05fda4fbfc25a387ca1539
+      internalID: -484041316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1161
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64532f98eedfdcf40857cbddc1218cc4
+      internalID: -655346692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 938
+        width: 250
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c499fbb83f5b149afd228ce8fa697e
+      internalID: 2068721500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 938
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111aabcb4b67684db130392b1cdeba3
+      internalID: 385382270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_14
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 938
+        width: 245
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454ac938bc35d94a8853e3d36ed6017
+      internalID: 1587265572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 938
+        width: 245
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b4d25c25823a47b146e4da6f94df4
+      internalID: -2005235961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_16
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 938
+        width: 246
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4f659d0395d04686d29494feb51a5
+      internalID: 121070237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_17
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 938
+        width: 247
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464128e7c4a3a64f867daa6edf5f770
+      internalID: -1208370725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 713
+        width: 254
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78bfb06870481040850b0a57e78dfcf
+      internalID: 478901181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 713
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e53f6043b6b6c4487ae4323d540387
+      internalID: 839987722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_20
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 713
+        width: 222
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac33aa2cc11db5478e9e17baecc7bd3
+      internalID: -1337890690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_21
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 713
+        width: 222
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add4065ba0e7a84c984d2ad54b6c1cb
+      internalID: -376159694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_22
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 713
+        width: 217
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce617cd5b2e784fb2bd1a43fc8d57a
+      internalID: -1867593265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_23
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 713
+        width: 222
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bbc0f6628b0ed42970515e3a9e57b9
+      internalID: -580901975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_24
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 713
+        width: 253
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c810afa9cde64b4087d03656303da23
+      internalID: 1702793790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 502
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5d173cc499fef4a85b49e2965ad4d0
+      internalID: 2099553669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 502
+        width: 224
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e554ce5b31424a968e316ccc7ea3b
+      internalID: 617051913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 502
+        width: 206
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724df97fff17c0f40ae24b0e491985e6
+      internalID: 955779984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_28
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 502
+        width: 201
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f34cd0b7d7db4c4f80d514a949e8ee0
+      internalID: -1740135055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_29
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 502
+        width: 201
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c45d35e442f942a841b623c9d4164
+      internalID: -1899477682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a956641be426ea45882af8033a93468
+      internalID: -330066718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 261
+        width: 246
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf956876369954fa6f7918ff0df069
+      internalID: -1077165797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_32
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 270
+        width: 244
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc2496bdc393c419653db94f91ee96
+      internalID: 1863277344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_33
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94082fc5c11713488b3fc19543aab56
+      internalID: 104553883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_34
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 270
+        width: 243
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f37ecf63c36242a4e8dc30cbec629
+      internalID: -709924543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_35
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf8629f313ad514381e7449abf8e2be
+      internalID: 370153698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_36
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95deaa8a103b154b88052bcdd0316fe
+      internalID: -168687334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_37
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 270
+        width: 241
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870962dd807720458632ec3f307c1eb
+      internalID: 669203551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_38
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a333f927fae81d4eb47c2be924f4324
+      internalID: -1619665699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_39
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 270
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5fabe2e3a74f45a9e83d376e2d098
+      internalID: -897383572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_40
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 270
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57bf9f4d95b20d4599d9de9ebcd5a68
+      internalID: 1014577081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 245
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61e376c37d4d946b3e3a29d104ebb1
+      internalID: 1542284110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 42
+        width: 229
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f723520bb89d66a47b76310b704c5b95
+      internalID: 1163095396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_43
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 42
+        width: 227
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db51deba0dbd0e4c87df16da20004d5
+      internalID: -1986168084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_44
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 42
+        width: 238
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeebfcfe2c5c18438e3b6aed06540c1
+      internalID: 891023059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_45
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 42
+        width: 246
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8827798c00a60664f95017a1e58a578f
+      internalID: -277918027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_46
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 42
+        width: 262
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6406640813b1d47a9cec9afc0da653
+      internalID: 436023075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_47
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 42
+        width: 270
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaad92c6ad7739b46951cab481a2a517
+      internalID: 948746394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_48
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 42
+        width: 277
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50798c9935450f748bc67f3e34a6a5d7
+      internalID: 2005793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_49
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 42
+        width: 266
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39a8496ad8de845b4bec215a9af131
+      internalID: 1908454562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoJefe_50
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 42
+        width: 250
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d588590d7e2acbe4bacef3fc93b5ad7a
+      internalID: 267347632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteFuturistaEnemigoJefe_36: -168687334
+      SpriteFuturistaEnemigoJefe_31: -1077165797
+      SpriteFuturistaEnemigoJefe_43: -1986168084
+      SpriteFuturistaEnemigoJefe_19: 839987722
+      SpriteFuturistaEnemigoJefe_9: 746910860
+      SpriteFuturistaEnemigoJefe_10: -484041316
+      SpriteFuturistaEnemigoJefe_28: -1740135055
+      SpriteFuturistaEnemigoJefe_40: 1014577081
+      SpriteFuturistaEnemigoJefe_29: -1899477682
+      SpriteFuturistaEnemigoJefe_4: -1448628312
+      SpriteFuturistaEnemigoJefe_33: 104553883
+      SpriteFuturistaEnemigoJefe_30: -330066718
+      SpriteFuturistaEnemigoJefe_14: 1587265572
+      SpriteFuturistaEnemigoJefe_50: 267347632
+      SpriteFuturistaEnemigoJefe_42: 1163095396
+      SpriteFuturistaEnemigoJefe_12: 2068721500
+      SpriteFuturistaEnemigoJefe_39: -897383572
+      SpriteFuturistaEnemigoJefe_7: 431100984
+      SpriteFuturistaEnemigoJefe_35: 370153698
+      SpriteFuturistaEnemigoJefe_16: 121070237
+      SpriteFuturistaEnemigoJefe_26: 617051913
+      SpriteFuturistaEnemigoJefe_45: -277918027
+      SpriteFuturistaEnemigoJefe_5: -1916001491
+      SpriteFuturistaEnemigoJefe_37: 669203551
+      SpriteFuturistaEnemigoJefe_49: 1908454562
+      SpriteFuturistaEnemigoJefe_6: -1238508797
+      SpriteFuturistaEnemigoJefe_13: 385382270
+      SpriteFuturistaEnemigoJefe_46: 436023075
+      SpriteFuturistaEnemigoJefe_47: 948746394
+      SpriteFuturistaEnemigoJefe_22: -1867593265
+      SpriteFuturistaEnemigoJefe_41: 1542284110
+      SpriteFuturistaEnemigoJefe_23: -580901975
+      SpriteFuturistaEnemigoJefe_15: -2005235961
+      SpriteFuturistaEnemigoJefe_27: 955779984
+      SpriteFuturistaEnemigoJefe_8: -1912305669
+      SpriteFuturistaEnemigoJefe_3: -1481787099
+      SpriteFuturistaEnemigoJefe_25: 2099553669
+      SpriteFuturistaEnemigoJefe_17: -1208370725
+      SpriteFuturistaEnemigoJefe_2: -41789935
+      SpriteFuturistaEnemigoJefe_24: 1702793790
+      SpriteFuturistaEnemigoJefe_48: 2005793769
+      SpriteFuturistaEnemigoJefe_0: 338238515
+      SpriteFuturistaEnemigoJefe_38: -1619665699
+      SpriteFuturistaEnemigoJefe_1: 628038229
+      SpriteFuturistaEnemigoJefe_11: -655346692
+      SpriteFuturistaEnemigoJefe_18: 478901181
+      SpriteFuturistaEnemigoJefe_34: -709924543
+      SpriteFuturistaEnemigoJefe_44: 891023059
+      SpriteFuturistaEnemigoJefe_20: -1337890690
+      SpriteFuturistaEnemigoJefe_21: -376159694
+      SpriteFuturistaEnemigoJefe_32: 1863277344
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

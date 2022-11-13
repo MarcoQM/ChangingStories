@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: c8aa0e94ce1e4724fbbbaaef27fac456
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 530
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f31b63465d935488f1ec457957cc7c
+      internalID: -1166276010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 530
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf25d99d5f9c14f930fdea5e2bd330
+      internalID: 363082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 530
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a641140cc7e362d43b99896493980ae8
+      internalID: -953243128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 530
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4301ab3217d7844cb87a8974cdb711b
+      internalID: -15749533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 530
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab37d41895a4d408da746efb89113b
+      internalID: 300426227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 530
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41993895f72d6b544b11becc0371a25b
+      internalID: -1333228225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 358
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee02f32ce4dae044b4d07d7db17d6a6
+      internalID: -52675161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8e83f3f611b6409c700b33667a249
+      internalID: -754674650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 358
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45890297ecf2d7448450d922413c425
+      internalID: -335551801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 358
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df1bd7885592442a669980a291e506
+      internalID: -2011056260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a8c56b273b4f4a8eb175569646be7
+      internalID: -1678799697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 194
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807edd3f55dd16448a7e4ecef5fe8ad0
+      internalID: 1801607586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 198
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b8715b87dcb44fa09d7c69d5910f9
+      internalID: -963970350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 194
+        width: 152
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d254d4824b964b43a0b112eb2aa72c3
+      internalID: -110443210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 198
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8bf41220ce1f49b97d36129c1fb3c
+      internalID: -2118436250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b4bab64a3f4b44858fe5cdcde50b9
+      internalID: -215609456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9b932e07cccd498537b644d193246
+      internalID: 484496057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 34
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a09a01db5eba4484482c3576013d2
+      internalID: -160135045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 34
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198417b928e26d4b912e1e866e804dc
+      internalID: -1292185920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_20
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 34
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c14bf4a7701e448b099c32305e765a
+      internalID: -1129680175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_21
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 34
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137c98e0b032324293d5166bebbdaab
+      internalID: 94714938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 34
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac9883f689ce04282daf1b2cd475ca
+      internalID: 1872583501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_23
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 34
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946a435fd089c148b0a2a99d8cb14b2
+      internalID: -298505648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFuturistaEnemigoComun_24
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 34
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cacbdf83cdbb31478ed72a8ff5fa8cd
+      internalID: -221579892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteFuturistaEnemigoComun_4: 300426227
+      SpriteFuturistaEnemigoComun_21: 94714938
+      SpriteFuturistaEnemigoComun_22: 1872583501
+      SpriteFuturistaEnemigoComun_17: 484496057
+      SpriteFuturistaEnemigoComun_2: -953243128
+      SpriteFuturistaEnemigoComun_20: -1129680175
+      SpriteFuturistaEnemigoComun_9: -335551801
+      SpriteFuturistaEnemigoComun_12: 1801607586
+      SpriteFuturistaEnemigoComun_10: -2011056260
+      SpriteFuturistaEnemigoComun_14: -110443210
+      SpriteFuturistaEnemigoComun_3: -15749533
+      SpriteFuturistaEnemigoComun_6: -755945813
+      SpriteFuturistaEnemigoComun_13: -963970350
+      SpriteFuturistaEnemigoComun_16: -215609456
+      SpriteFuturistaEnemigoComun_19: -1292185920
+      SpriteFuturistaEnemigoComun_18: -160135045
+      SpriteFuturistaEnemigoComun_11: -1678799697
+      SpriteFuturistaEnemigoComun_23: -298505648
+      SpriteFuturistaEnemigoComun_8: -754674650
+      SpriteFuturistaEnemigoComun_0: -1166276010
+      SpriteFuturistaEnemigoComun_24: -221579892
+      SpriteFuturistaEnemigoComun_7: -52675161
+      SpriteFuturistaEnemigoComun_1: 363082563
+      SpriteFuturistaEnemigoComun_15: -2118436250
+      SpriteFuturistaEnemigoComun_5: -1333228225
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
