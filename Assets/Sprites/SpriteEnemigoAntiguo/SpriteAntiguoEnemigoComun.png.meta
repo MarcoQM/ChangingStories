@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_0
+      name: IdleEnemigoAntiguo1
       rect:
         serializedVersion: 2
         x: 37
@@ -113,7 +113,7 @@ TextureImporter:
         width: 250
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_1
+      name: IdleEnemigoAntiguo2
       rect:
         serializedVersion: 2
         x: 325
@@ -134,7 +134,7 @@ TextureImporter:
         width: 250
         height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_2
+      name: IdleEnemigoAntiguo3
       rect:
         serializedVersion: 2
         x: 617
@@ -155,7 +155,7 @@ TextureImporter:
         width: 250
         height: 185
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_3
+      name: IdleEnemigoAntiguo4
       rect:
         serializedVersion: 2
         x: 902
@@ -176,7 +176,7 @@ TextureImporter:
         width: 248
         height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_4
+      name: IdleEnemigoAntiguo5
       rect:
         serializedVersion: 2
         x: 1194
@@ -197,7 +197,7 @@ TextureImporter:
         width: 248
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_6
+      name: IdleEnemigoAntiguoMorir1
       rect:
         serializedVersion: 2
         x: 45
@@ -218,7 +218,7 @@ TextureImporter:
         width: 246
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_7
+      name: IdleEnemigoAntiguoMorir2
       rect:
         serializedVersion: 2
         x: 389
@@ -239,7 +239,7 @@ TextureImporter:
         width: 242
         height: 198
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_8
+      name: IdleEnemigoAntiguoMorir3
       rect:
         serializedVersion: 2
         x: 730
@@ -260,7 +260,7 @@ TextureImporter:
         width: 228
         height: 198
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_9
+      name: IdleEnemigoAntiguoMorir4
       rect:
         serializedVersion: 2
         x: 1066
@@ -281,7 +281,7 @@ TextureImporter:
         width: 256
         height: 176
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_10
+      name: IdleEnemigoAntiguoMorir5
       rect:
         serializedVersion: 2
         x: 1425
@@ -302,7 +302,7 @@ TextureImporter:
         width: 317
         height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_11
+      name: IdleEnemigoAntiguoPegar1
       rect:
         serializedVersion: 2
         x: 25
@@ -323,7 +323,7 @@ TextureImporter:
         width: 253
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_12
+      name: IdleEnemigoAntiguoPegar2
       rect:
         serializedVersion: 2
         x: 369
@@ -344,7 +344,7 @@ TextureImporter:
         width: 254
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_13
+      name: IdleEnemigoAntiguoPegar3
       rect:
         serializedVersion: 2
         x: 722
@@ -365,7 +365,7 @@ TextureImporter:
         width: 261
         height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_14
+      name: IdleEnemigoAntiguoPegar4
       rect:
         serializedVersion: 2
         x: 1061
@@ -386,7 +386,7 @@ TextureImporter:
         width: 253
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_15
+      name: IdleEnemigoAntiguoPegar5
       rect:
         serializedVersion: 2
         x: 1422
@@ -407,7 +407,7 @@ TextureImporter:
         width: 256
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_16
+      name: IdleEnemigoAntiguoPegar6
       rect:
         serializedVersion: 2
         x: 1777
@@ -428,7 +428,7 @@ TextureImporter:
         width: 257
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_17
+      name: IdleEnemigoAntiguoPegar7
       rect:
         serializedVersion: 2
         x: 2158
@@ -449,7 +449,7 @@ TextureImporter:
         width: 261
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_18
+      name: IdleEnemigoAntiguoPegar8
       rect:
         serializedVersion: 2
         x: 2517
@@ -470,7 +470,7 @@ TextureImporter:
         width: 258
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_19
+      name: IdleEnemigoAntiguoPegar9
       rect:
         serializedVersion: 2
         x: 2902
@@ -491,7 +491,7 @@ TextureImporter:
         width: 253
         height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_20
+      name: IdleEnemigoAntiguoCaminar1
       rect:
         serializedVersion: 2
         x: 45
@@ -512,7 +512,7 @@ TextureImporter:
         width: 250
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_21
+      name: IdleEnemigoAntiguoCaminar2
       rect:
         serializedVersion: 2
         x: 394
@@ -533,7 +533,7 @@ TextureImporter:
         width: 245
         height: 200
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,7 +546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_22
+      name: IdleEnemigoAntiguoCaminar3
       rect:
         serializedVersion: 2
         x: 706
@@ -554,7 +554,7 @@ TextureImporter:
         width: 244
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_23
+      name: IdleEnemigoAntiguoCaminar4
       rect:
         serializedVersion: 2
         x: 1033
@@ -575,7 +575,7 @@ TextureImporter:
         width: 245
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -588,7 +588,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_24
+      name: IdleEnemigoAntiguoCaminar5
       rect:
         serializedVersion: 2
         x: 1369
@@ -596,7 +596,7 @@ TextureImporter:
         width: 250
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -609,7 +609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_25
+      name: IdleEnemigoAntiguoCaminar6
       rect:
         serializedVersion: 2
         x: 1694
@@ -617,7 +617,7 @@ TextureImporter:
         width: 248
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -630,7 +630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_26
+      name: IdleEnemigoAntiguoCaminar7
       rect:
         serializedVersion: 2
         x: 2053
@@ -638,7 +638,7 @@ TextureImporter:
         width: 250
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -651,15 +651,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoComun_27
+      name: IdleEnemigoAntiguoCaminar8
       rect:
         serializedVersion: 2
-        x: 2397
-        y: 45
+        x: 2395
+        y: 47
         width: 250
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -682,34 +682,34 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteAntiguoEnemigoComun_25: 1929563865
-      SpriteAntiguoEnemigoComun_18: -178883669
-      SpriteAntiguoEnemigoComun_13: 420950191
-      SpriteAntiguoEnemigoComun_3: -613796737
-      SpriteAntiguoEnemigoComun_14: -1887908246
-      SpriteAntiguoEnemigoComun_4: 336808212
-      SpriteAntiguoEnemigoComun_20: -1322523432
-      SpriteAntiguoEnemigoComun_15: -327877084
-      SpriteAntiguoEnemigoComun_19: -1522271738
-      SpriteAntiguoEnemigoComun_10: 1851100861
-      SpriteAntiguoEnemigoComun_16: 835141027
-      SpriteAntiguoEnemigoComun_1: -1271432244
-      SpriteAntiguoEnemigoComun_21: -951067639
+      IdleEnemigoAntiguoPegar6: 835141027
+      IdleEnemigoAntiguoCaminar3: 1138159201
+      IdleEnemigoAntiguo1: 703418613
+      IdleEnemigoAntiguo4: -613796737
+      IdleEnemigoAntiguoPegar7: 879297736
+      IdleEnemigoAntiguoMorir3: -1265488821
+      IdleEnemigoAntiguo3: 1254318960
+      IdleEnemigoAntiguoPegar9: -1522271738
+      IdleEnemigoAntiguoMorir1: 1427314447
+      IdleEnemigoAntiguoPegar1: -2033500234
+      IdleEnemigoAntiguoCaminar5: 1919011461
       SpriteAntiguoEnemigoComun_5: -9117040
-      SpriteAntiguoEnemigoComun_12: 514805683
-      SpriteAntiguoEnemigoComun_0: 703418613
-      SpriteAntiguoEnemigoComun_7: -587711167
-      SpriteAntiguoEnemigoComun_9: -1945983972
-      SpriteAntiguoEnemigoComun_11: -2033500234
-      SpriteAntiguoEnemigoComun_27: 739377552
-      SpriteAntiguoEnemigoComun_17: 879297736
-      SpriteAntiguoEnemigoComun_24: 1919011461
-      SpriteAntiguoEnemigoComun_22: 1138159201
-      SpriteAntiguoEnemigoComun_8: -1265488821
-      SpriteAntiguoEnemigoComun_23: 1058438180
-      SpriteAntiguoEnemigoComun_26: -745450097
-      SpriteAntiguoEnemigoComun_6: 1427314447
-      SpriteAntiguoEnemigoComun_2: 1254318960
+      IdleEnemigoAntiguoCaminar7: -745450097
+      IdleEnemigoAntiguoMorir2: -587711167
+      IdleEnemigoAntiguoPegar2: 514805683
+      IdleEnemigoAntiguoCaminar1: -1322523432
+      IdleEnemigoAntiguoCaminar4: 1058438180
+      IdleEnemigoAntiguoMorir4: -1945983972
+      IdleEnemigoAntiguo5: 336808212
+      IdleEnemigoAntiguoCaminar2: -951067639
+      IdleEnemigoAntiguoCaminar8: 739377552
+      IdleEnemigoAntiguoMorir5: 1851100861
+      IdleEnemigoAntiguoPegar5: -327877084
+      IdleEnemigoAntiguo2: -1271432244
+      IdleEnemigoAntiguoCaminar6: 1929563865
+      IdleEnemigoAntiguoPegar3: 420950191
+      IdleEnemigoAntiguoPegar8: -178883669
+      IdleEnemigoAntiguoPegar4: -1887908246
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_2
+      name: IdleAntiguoEnemigoJefe1
       rect:
         serializedVersion: 2
         x: 43
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_3
+      name: IdleAntiguoEnemigoJefe2
       rect:
         serializedVersion: 2
         x: 301
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_4
+      name: IdleAntiguoEnemigoJefe3
       rect:
         serializedVersion: 2
         x: 551
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_5
+      name: IdleAntiguoEnemigoJefe4
       rect:
         serializedVersion: 2
         x: 795
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_6
+      name: IdleAntiguoEnemigoJefe5
       rect:
         serializedVersion: 2
         x: 1061
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_8
+      name: IdleAntiguoEnemigoJefe6
       rect:
         serializedVersion: 2
         x: 1332
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_9
+      name: IdleAntiguoEnemigoJefeAtacar1
       rect:
         serializedVersion: 2
         x: 38
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_10
+      name: IdleAntiguoEnemigoJefeAtacar2
       rect:
         serializedVersion: 2
         x: 269
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_11
+      name: IdleAntiguoEnemigoJefeAtacar3
       rect:
         serializedVersion: 2
         x: 489
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_12
+      name: IdleAntiguoEnemigoJefeAtacar4
       rect:
         serializedVersion: 2
         x: 754
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_13
+      name: IdleAntiguoEnemigoJefeAtacar5
       rect:
         serializedVersion: 2
         x: 1050
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_14
+      name: IdleAntiguoEnemigoJefeAtacar6
       rect:
         serializedVersion: 2
         x: 1334
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_15
+      name: IdleAntiguoEnemigoJefeAtacar7
       rect:
         serializedVersion: 2
         x: 1597
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_16
+      name: IdleAntiguoEnemigoJefeDanio1
       rect:
         serializedVersion: 2
         x: 46
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_17
+      name: IdleAntiguoEnemigoJefeDanio2
       rect:
         serializedVersion: 2
         x: 298
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_18
+      name: IdleAntiguoEnemigoJefeDanio3
       rect:
         serializedVersion: 2
         x: 558
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_19
+      name: IdleAntiguoEnemigoJefeMorir1
       rect:
         serializedVersion: 2
         x: 46
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_20
+      name: IdleAntiguoEnemigoJefeMorir2
       rect:
         serializedVersion: 2
         x: 328
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_21
+      name: IdleAntiguoEnemigoJefeMorir3
       rect:
         serializedVersion: 2
         x: 611
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_22
+      name: IdleAntiguoEnemigoJefeMorir4
       rect:
         serializedVersion: 2
         x: 885
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_23
+      name: IdleAntiguoEnemigoJefeMorir5
       rect:
         serializedVersion: 2
         x: 1175
@@ -588,13 +588,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_27
+      name: IdleAntiguoEnemigoJefeCaminar2
       rect:
         serializedVersion: 2
         x: 293
-        y: 76
-        width: 486
-        height: 184
+        y: 74
+        width: 234
+        height: 186
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,7 +609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_28
+      name: IdleAntiguoEnemigoJefeCaminar4
       rect:
         serializedVersion: 2
         x: 809
@@ -630,7 +630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_29
+      name: IdleAntiguoEnemigoJefeCaminar5
       rect:
         serializedVersion: 2
         x: 1087
@@ -651,7 +651,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_30
+      name: IdleAntiguoEnemigoJefeCaminar6
       rect:
         serializedVersion: 2
         x: 1356
@@ -672,13 +672,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_31
+      name: IdleAntiguoEnemigoJefeCaminar7
       rect:
         serializedVersion: 2
         x: 1611
-        y: 78
-        width: 483
-        height: 180
+        y: 79
+        width: 243
+        height: 179
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,7 +693,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_32
+      name: IdleAntiguoEnemigoJefeCaminar9
       rect:
         serializedVersion: 2
         x: 2121
@@ -714,7 +714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_33
+      name: IdleAntiguoEnemigoJefeCaminar10
       rect:
         serializedVersion: 2
         x: 2382
@@ -735,7 +735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_34
+      name: IdleAntiguoEnemigoJefeCaminar11
       rect:
         serializedVersion: 2
         x: 2658
@@ -756,7 +756,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_35
+      name: IdleAntiguoEnemigoJefeCaminar12
       rect:
         serializedVersion: 2
         x: 2932
@@ -798,7 +798,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoJefe_37
+      name: IdleAntiguoEnemigoJefeCaminar1
       rect:
         serializedVersion: 2
         x: 44
@@ -818,6 +818,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: IdleAntiguoEnemigoJefeCaminar3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 81
+        width: 228
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a014b70cb5d5d4796d0c32100e36ea
+      internalID: 2030162363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleAntiguoEnemigoJefeCaminar8
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 74
+        width: 224
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b3b09f6590a447acacc421de83899
+      internalID: 1275695294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -829,49 +871,50 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteAntiguoEnemigoJefe_15: -1307908455
-      SpriteAntiguoEnemigoJefe_30: -1143115644
-      SpriteAntiguoEnemigoJefe_33: -1917178117
-      SpriteAntiguoEnemigoJefe_28: 1966054870
+      IdleAntiguoEnemigoJefeCaminar9: -1378214827
+      IdleAntiguoEnemigoJefeAtacar4: 608334758
+      IdleAntiguoEnemigoJefeDanio3: 2057087846
+      IdleAntiguoEnemigoJefeCaminar6: -1143115644
+      IdleAntiguoEnemigoJefeCaminar11: -304694119
+      IdleAntiguoEnemigoJefeAtacar1: 831959165
+      IdleAntiguoEnemigoJefeCaminar10: -1917178117
       SpriteAntiguoEnemigoJefe_7: -1882069152
-      SpriteAntiguoEnemigoJefe_12: 608334758
-      SpriteAntiguoEnemigoJefe_35: -221265463
-      SpriteAntiguoEnemigoJefe_19: -1790927379
+      IdleAntiguoEnemigoJefeAtacar3: -1110635427
       SpriteAntiguoEnemigoJefe_38: 689784210
+      IdleAntiguoEnemigoJefeCaminar12: -221265463
       SpriteAntiguoEnemigoJefe_26: -1511345153
-      SpriteAntiguoEnemigoJefe_34: -304694119
-      SpriteAntiguoEnemigoJefe_41: -1739862841
-      SpriteAntiguoEnemigoJefe_10: 903265061
-      SpriteAntiguoEnemigoJefe_37: -2067556797
+      IdleAntiguoEnemigoJefe2: 1389261045
       SpriteAntiguoEnemigoJefe_42: 1781229726
-      SpriteAntiguoEnemigoJefe_16: -1975191265
-      SpriteAntiguoEnemigoJefe_0: -2002760122
-      SpriteAntiguoEnemigoJefe_31: 2097200247
-      SpriteAntiguoEnemigoJefe_4: -838332898
+      SpriteAntiguoEnemigoJefe_41: -1739862841
+      IdleAntiguoEnemigoJefeAtacar2: 903265061
+      IdleAntiguoEnemigoJefeDanio1: -1975191265
+      IdleAntiguoEnemigoJefeMorir4: -935465916
+      IdleAntiguoEnemigoJefeDanio2: -905948807
+      IdleAntiguoEnemigoJefe5: -556764125
+      IdleAntiguoEnemigoJefeAtacar7: -1307908455
+      IdleAntiguoEnemigoJefeMorir3: -369723894
+      IdleAntiguoEnemigoJefeCaminar3: -2002760122
       SpriteAntiguoEnemigoJefe_36: 463826725
       SpriteAntiguoEnemigoJefe_1: 957831798
-      SpriteAntiguoEnemigoJefe_20: -1236451318
-      SpriteAntiguoEnemigoJefe_9: 831959165
       SpriteAntiguoEnemigoJefe_24: 30751564
-      SpriteAntiguoEnemigoJefe_23: -2079694727
-      SpriteAntiguoEnemigoJefe_14: 1003259440
-      SpriteAntiguoEnemigoJefe_18: 2057087846
-      SpriteAntiguoEnemigoJefe_27: -1152294566
-      SpriteAntiguoEnemigoJefe_17: -905948807
-      SpriteAntiguoEnemigoJefe_6: -556764125
-      SpriteAntiguoEnemigoJefe_21: -369723894
-      SpriteAntiguoEnemigoJefe_22: -935465916
-      SpriteAntiguoEnemigoJefe_5: 305198213
-      SpriteAntiguoEnemigoJefe_29: 2008138933
-      SpriteAntiguoEnemigoJefe_32: -1378214827
-      SpriteAntiguoEnemigoJefe_8: -1547117936
+      IdleAntiguoEnemigoJefeMorir5: -2079694727
+      IdleAntiguoEnemigoJefeCaminar1: -2067556797
+      IdleAntiguoEnemigoJefe4: 305198213
+      IdleAntiguoEnemigoJefeAtacar5: 120433500
+      IdleAntiguoEnemigoJefe6: -1547117936
+      IdleAntiguoEnemigoJefe1: 876761921
+      IdleAntiguoEnemigoJefeCaminar7: 2097200247
+      IdleAntiguoEnemigoJefe3: -838332898
+      IdleAntiguoEnemigoJefeMorir2: -1236451318
+      IdleAntiguoEnemigoJefeCaminar4: 1966054870
       SpriteAntiguoEnemigoJefe_25: 80019114
-      SpriteAntiguoEnemigoJefe_13: 120433500
-      SpriteAntiguoEnemigoJefe_2: 876761921
+      IdleAntiguoEnemigoJefeAtacar6: 1003259440
+      IdleAntiguoEnemigoJefeCaminar2: -1152294566
       SpriteAntiguoEnemigoJefe_40: -938686969
-      SpriteAntiguoEnemigoJefe_11: -1110635427
+      IdleAntiguoEnemigoJefeCaminar5: 2008138933
+      IdleAntiguoEnemigoJefeCaminar8: 1275695294
       SpriteAntiguoEnemigoJefe_39: -725206780
-      SpriteAntiguoEnemigoJefe_3: 1389261045
+      IdleAntiguoEnemigoJefeMorir1: -1790927379
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

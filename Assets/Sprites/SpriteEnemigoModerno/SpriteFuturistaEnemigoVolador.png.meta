@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_0
+      name: IdleFuturistaEnemigoVoladorAvanzar1
       rect:
         serializedVersion: 2
         x: 50
@@ -113,7 +113,7 @@ TextureImporter:
         width: 212
         height: 124
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_1
+      name: IdleFuturistaEnemigoVoladorAvanzar2
       rect:
         serializedVersion: 2
         x: 346
@@ -134,7 +134,7 @@ TextureImporter:
         width: 208
         height: 124
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_2
+      name: IdleFuturistaEnemigoVoladorAvanzar3
       rect:
         serializedVersion: 2
         x: 642
@@ -155,7 +155,7 @@ TextureImporter:
         width: 204
         height: 124
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_3
+      name: IdleFuturistaEnemigoVoladorAtacar1
       rect:
         serializedVersion: 2
         x: 50
@@ -176,7 +176,7 @@ TextureImporter:
         width: 212
         height: 124
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_4
+      name: IdleFuturistaEnemigoVoladorAtacar2
       rect:
         serializedVersion: 2
         x: 330
@@ -197,7 +197,7 @@ TextureImporter:
         width: 224
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_6
+      name: IdleFuturistaEnemigoVoladorAtacar3
       rect:
         serializedVersion: 2
         x: 642
@@ -218,7 +218,7 @@ TextureImporter:
         width: 204
         height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_8
+      name: IdleFuturistaEnemigoVoladorDanio1
       rect:
         serializedVersion: 2
         x: 50
@@ -239,7 +239,7 @@ TextureImporter:
         width: 212
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_10
+      name: IdleFuturistaEnemigoVoladorDanio2
       rect:
         serializedVersion: 2
         x: 346
@@ -260,7 +260,7 @@ TextureImporter:
         width: 208
         height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoVolador_11
+      name: IdleFuturistaEnemigoVoladorDanio3
       rect:
         serializedVersion: 2
         x: 642
@@ -281,7 +281,7 @@ TextureImporter:
         width: 204
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -302,7 +302,7 @@ TextureImporter:
         width: 68
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,7 +323,7 @@ TextureImporter:
         width: 64
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,7 +344,7 @@ TextureImporter:
         width: 65
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -365,7 +365,7 @@ TextureImporter:
         width: 64
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -386,7 +386,7 @@ TextureImporter:
         width: 68
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -407,7 +407,7 @@ TextureImporter:
         width: 64
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -432,21 +432,21 @@ TextureImporter:
     nameFileIdTable:
       SpriteFuturistaEnemigoVolador_5: -583984280
       SpriteFuturistaEnemigoVolador_7: 153725789
-      SpriteFuturistaEnemigoVolador_1: -742144746
-      SpriteFuturistaEnemigoVolador_6: 139100449
+      IdleFuturistaEnemigoVoladorAvanzar2: -742144746
+      IdleFuturistaEnemigoVoladorAvanzar1: 198224431
+      IdleFuturistaEnemigoVoladorDanio1: 1039099448
       SpriteFuturistaEnemigoVolador_16: 1647400403
-      SpriteFuturistaEnemigoVolador_4: 742929875
-      SpriteFuturistaEnemigoVolador_0: 198224431
+      IdleFuturistaEnemigoVoladorAvanzar3: -1084722873
+      IdleFuturistaEnemigoVoladorAtacar1: 706957728
+      IdleFuturistaEnemigoVoladorDanio3: -670691193
       SpriteFuturistaEnemigoVolador_9: 2065610450
-      SpriteFuturistaEnemigoVolador_8: 1039099448
       SpriteFuturistaEnemigoVolador_13: -332857135
-      SpriteFuturistaEnemigoVolador_10: -1897932096
       SpriteFuturistaEnemigoVolador_14: 1756484750
-      SpriteFuturistaEnemigoVolador_11: -670691193
-      SpriteFuturistaEnemigoVolador_3: 706957728
+      IdleFuturistaEnemigoVoladorAtacar2: 742929875
+      IdleFuturistaEnemigoVoladorDanio2: -1897932096
       SpriteFuturistaEnemigoVolador_17: 1804248158
       SpriteFuturistaEnemigoVolador_12: -1573576684
-      SpriteFuturistaEnemigoVolador_2: -1084722873
+      IdleFuturistaEnemigoVoladorAtacar3: 139100449
       SpriteFuturistaEnemigoVolador_15: 531565330
   spritePackingTag: 
   pSDRemoveMatte: 0

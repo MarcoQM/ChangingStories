@@ -113,7 +113,7 @@ TextureImporter:
         width: 74
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,7 +134,7 @@ TextureImporter:
         width: 84
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -155,7 +155,7 @@ TextureImporter:
         width: 85
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -176,7 +176,7 @@ TextureImporter:
         width: 93
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -197,7 +197,7 @@ TextureImporter:
         width: 85
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,7 +218,7 @@ TextureImporter:
         width: 86
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -239,7 +239,7 @@ TextureImporter:
         width: 88
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -260,7 +260,7 @@ TextureImporter:
         width: 96
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -281,7 +281,7 @@ TextureImporter:
         width: 98
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -302,7 +302,7 @@ TextureImporter:
         width: 110
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,7 +323,7 @@ TextureImporter:
         width: 101
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,7 +344,7 @@ TextureImporter:
         width: 94
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_12
+      name: IdleFuturistaEnemigo1
       rect:
         serializedVersion: 2
         x: 49
@@ -365,7 +365,7 @@ TextureImporter:
         width: 250
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_13
+      name: IdleFuturistaEnemigo2
       rect:
         serializedVersion: 2
         x: 301
@@ -386,7 +386,7 @@ TextureImporter:
         width: 250
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_14
+      name: IdleFuturistaEnemigo3
       rect:
         serializedVersion: 2
         x: 562
@@ -407,7 +407,7 @@ TextureImporter:
         width: 245
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_15
+      name: IdleFuturistaEnemigo4
       rect:
         serializedVersion: 2
         x: 826
@@ -428,7 +428,7 @@ TextureImporter:
         width: 245
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_16
+      name: IdleFuturistaEnemigo5
       rect:
         serializedVersion: 2
         x: 1109
@@ -449,7 +449,7 @@ TextureImporter:
         width: 246
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_17
+      name: IdleFuturistaEnemigo6
       rect:
         serializedVersion: 2
         x: 1388
@@ -470,7 +470,7 @@ TextureImporter:
         width: 247
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_18
+      name: IdleFuturistaEnemigoAtacar1
       rect:
         serializedVersion: 2
         x: 49
@@ -491,7 +491,7 @@ TextureImporter:
         width: 254
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_19
+      name: IdleFuturistaEnemigoAtacar2
       rect:
         serializedVersion: 2
         x: 322
@@ -512,7 +512,7 @@ TextureImporter:
         width: 220
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_20
+      name: IdleFuturistaEnemigoAtacar3
       rect:
         serializedVersion: 2
         x: 561
@@ -533,7 +533,7 @@ TextureImporter:
         width: 222
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,7 +546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_21
+      name: IdleFuturistaEnemigoAtacar4
       rect:
         serializedVersion: 2
         x: 785
@@ -554,7 +554,7 @@ TextureImporter:
         width: 222
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_22
+      name: IdleFuturistaEnemigoAtacar5
       rect:
         serializedVersion: 2
         x: 1022
@@ -575,7 +575,7 @@ TextureImporter:
         width: 217
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -588,7 +588,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_23
+      name: IdleFuturistaEnemigoAtacar6
       rect:
         serializedVersion: 2
         x: 1274
@@ -596,7 +596,7 @@ TextureImporter:
         width: 222
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -609,7 +609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_24
+      name: IdleFuturistaEnemigoAtacar7
       rect:
         serializedVersion: 2
         x: 1538
@@ -617,7 +617,7 @@ TextureImporter:
         width: 253
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -630,7 +630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_25
+      name: IdleFuturistaEnemigoMorir1
       rect:
         serializedVersion: 2
         x: 49
@@ -638,7 +638,7 @@ TextureImporter:
         width: 206
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -651,7 +651,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_26
+      name: IdleFuturistaEnemigoMorir2
       rect:
         serializedVersion: 2
         x: 270
@@ -659,7 +659,7 @@ TextureImporter:
         width: 224
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -672,7 +672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_27
+      name: IdleFuturistaEnemigoMorir3
       rect:
         serializedVersion: 2
         x: 561
@@ -680,7 +680,7 @@ TextureImporter:
         width: 206
         height: 176
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -693,7 +693,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_28
+      name: IdleFuturistaEnemigoMorir4
       rect:
         serializedVersion: 2
         x: 829
@@ -701,7 +701,7 @@ TextureImporter:
         width: 201
         height: 149
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -714,7 +714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_29
+      name: IdleFuturistaEnemigoMorir5
       rect:
         serializedVersion: 2
         x: 1090
@@ -722,7 +722,7 @@ TextureImporter:
         width: 201
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -735,7 +735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_30
+      name: IdleFuturistaEnemigoCaminar1
       rect:
         serializedVersion: 2
         x: 49
@@ -743,7 +743,7 @@ TextureImporter:
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -756,7 +756,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_31
+      name: IdleFuturistaEnemigoCaminar2
       rect:
         serializedVersion: 2
         x: 309
@@ -764,7 +764,7 @@ TextureImporter:
         width: 246
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -777,15 +777,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_32
+      name: IdleFuturistaEnemigoCaminar3
       rect:
         serializedVersion: 2
-        x: 570
-        y: 270
+        x: 568
+        y: 272
         width: 244
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -798,7 +798,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_33
+      name: IdleFuturistaEnemigoCaminar4
       rect:
         serializedVersion: 2
         x: 826
@@ -806,7 +806,7 @@ TextureImporter:
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -819,7 +819,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_34
+      name: IdleFuturistaEnemigoCaminar5
       rect:
         serializedVersion: 2
         x: 1090
@@ -827,7 +827,7 @@ TextureImporter:
         width: 243
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -840,15 +840,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_35
+      name: IdleFuturistaEnemigoCaminar6
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 270
+        x: 1354
+        y: 272
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -861,7 +861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_36
+      name: IdleFuturistaEnemigoCaminar7
       rect:
         serializedVersion: 2
         x: 1609
@@ -869,7 +869,7 @@ TextureImporter:
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -882,7 +882,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_37
+      name: IdleFuturistaEnemigoCaminar8
       rect:
         serializedVersion: 2
         x: 1869
@@ -890,7 +890,7 @@ TextureImporter:
         width: 241
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -903,7 +903,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_38
+      name: IdleFuturistaEnemigoCaminar9
       rect:
         serializedVersion: 2
         x: 2133
@@ -911,7 +911,7 @@ TextureImporter:
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -924,7 +924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_39
+      name: IdleFuturistaEnemigoCaminar10
       rect:
         serializedVersion: 2
         x: 2393
@@ -932,7 +932,7 @@ TextureImporter:
         width: 246
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -945,15 +945,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_40
+      name: IdleFuturistaEnemigoCaminar11
       rect:
         serializedVersion: 2
         x: 2661
-        y: 270
+        y: 274
         width: 245
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -966,7 +966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_41
+      name: IdleFuturistaEnemigoGolpe1
       rect:
         serializedVersion: 2
         x: 49
@@ -974,7 +974,7 @@ TextureImporter:
         width: 245
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -987,7 +987,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_42
+      name: IdleFuturistaEnemigoGolpe2
       rect:
         serializedVersion: 2
         x: 306
@@ -995,7 +995,7 @@ TextureImporter:
         width: 229
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1008,7 +1008,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_43
+      name: IdleFuturistaEnemigoGolpe3
       rect:
         serializedVersion: 2
         x: 556
@@ -1016,7 +1016,7 @@ TextureImporter:
         width: 227
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1029,7 +1029,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_44
+      name: IdleFuturistaEnemigoGolpe4
       rect:
         serializedVersion: 2
         x: 797
@@ -1037,7 +1037,7 @@ TextureImporter:
         width: 238
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1050,7 +1050,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_45
+      name: IdleFuturistaEnemigoGolpe5
       rect:
         serializedVersion: 2
         x: 1045
@@ -1058,7 +1058,7 @@ TextureImporter:
         width: 246
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1071,7 +1071,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_46
+      name: IdleFuturistaEnemigoGolpe6
       rect:
         serializedVersion: 2
         x: 1325
@@ -1079,7 +1079,7 @@ TextureImporter:
         width: 262
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1092,7 +1092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_47
+      name: IdleFuturistaEnemigoGolpe7
       rect:
         serializedVersion: 2
         x: 1588
@@ -1100,7 +1100,7 @@ TextureImporter:
         width: 270
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1113,7 +1113,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_48
+      name: IdleFuturistaEnemigoGolpe8
       rect:
         serializedVersion: 2
         x: 1878
@@ -1121,7 +1121,7 @@ TextureImporter:
         width: 277
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1134,7 +1134,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_49
+      name: IdleFuturistaEnemigoGolpe9
       rect:
         serializedVersion: 2
         x: 2185
@@ -1142,7 +1142,7 @@ TextureImporter:
         width: 266
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1155,7 +1155,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoJefe_50
+      name: IdleFuturistaEnemigoGolpe10
       rect:
         serializedVersion: 2
         x: 2469
@@ -1163,7 +1163,7 @@ TextureImporter:
         width: 250
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1186,57 +1186,57 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteFuturistaEnemigoJefe_36: -168687334
-      SpriteFuturistaEnemigoJefe_31: -1077165797
-      SpriteFuturistaEnemigoJefe_43: -1986168084
-      SpriteFuturistaEnemigoJefe_19: 839987722
+      IdleFuturistaEnemigoAtacar5: -1867593265
+      IdleFuturistaEnemigoCaminar9: -1619665699
+      IdleFuturistaEnemigoCaminar8: 669203551
+      IdleFuturistaEnemigoCaminar11: 1014577081
+      IdleFuturistaEnemigoGolpe2: 1163095396
+      IdleFuturistaEnemigoGolpe5: -277918027
       SpriteFuturistaEnemigoJefe_9: 746910860
       SpriteFuturistaEnemigoJefe_10: -484041316
-      SpriteFuturistaEnemigoJefe_28: -1740135055
-      SpriteFuturistaEnemigoJefe_40: 1014577081
-      SpriteFuturistaEnemigoJefe_29: -1899477682
+      IdleFuturistaEnemigoAtacar1: 478901181
+      IdleFuturistaEnemigoMorir2: 617051913
+      IdleFuturistaEnemigoGolpe10: 267347632
+      IdleFuturistaEnemigo5: 121070237
+      IdleFuturistaEnemigo2: 385382270
+      IdleFuturistaEnemigoGolpe8: 2005793769
       SpriteFuturistaEnemigoJefe_4: -1448628312
-      SpriteFuturistaEnemigoJefe_33: 104553883
-      SpriteFuturistaEnemigoJefe_30: -330066718
-      SpriteFuturistaEnemigoJefe_14: 1587265572
-      SpriteFuturistaEnemigoJefe_50: 267347632
-      SpriteFuturistaEnemigoJefe_42: 1163095396
-      SpriteFuturistaEnemigoJefe_12: 2068721500
-      SpriteFuturistaEnemigoJefe_39: -897383572
+      IdleFuturistaEnemigoCaminar3: 1863277344
+      IdleFuturistaEnemigo3: 1587265572
+      IdleFuturistaEnemigoCaminar5: -709924543
+      IdleFuturistaEnemigoCaminar10: -897383572
       SpriteFuturistaEnemigoJefe_7: 431100984
-      SpriteFuturistaEnemigoJefe_35: 370153698
-      SpriteFuturistaEnemigoJefe_16: 121070237
-      SpriteFuturistaEnemigoJefe_26: 617051913
-      SpriteFuturistaEnemigoJefe_45: -277918027
+      IdleFuturistaEnemigo4: -2005235961
+      IdleFuturistaEnemigoGolpe1: 1542284110
       SpriteFuturistaEnemigoJefe_5: -1916001491
-      SpriteFuturistaEnemigoJefe_37: 669203551
-      SpriteFuturistaEnemigoJefe_49: 1908454562
+      IdleFuturistaEnemigoMorir3: 955779984
+      IdleFuturistaEnemigoMorir5: -1899477682
+      IdleFuturistaEnemigoAtacar7: 1702793790
       SpriteFuturistaEnemigoJefe_6: -1238508797
-      SpriteFuturistaEnemigoJefe_13: 385382270
-      SpriteFuturistaEnemigoJefe_46: 436023075
-      SpriteFuturistaEnemigoJefe_47: 948746394
-      SpriteFuturistaEnemigoJefe_22: -1867593265
-      SpriteFuturistaEnemigoJefe_41: 1542284110
-      SpriteFuturistaEnemigoJefe_23: -580901975
-      SpriteFuturistaEnemigoJefe_15: -2005235961
-      SpriteFuturistaEnemigoJefe_27: 955779984
+      IdleFuturistaEnemigoMorir4: -1740135055
+      IdleFuturistaEnemigoGolpe6: 436023075
+      IdleFuturistaEnemigoGolpe9: 1908454562
+      IdleFuturistaEnemigoGolpe7: 948746394
+      IdleFuturistaEnemigoCaminar2: -1077165797
+      IdleFuturistaEnemigoCaminar6: 370153698
+      IdleFuturistaEnemigoCaminar7: -168687334
+      IdleFuturistaEnemigoCaminar4: 104553883
+      IdleFuturistaEnemigoGolpe4: 891023059
       SpriteFuturistaEnemigoJefe_8: -1912305669
+      IdleFuturistaEnemigoGolpe3: -1986168084
       SpriteFuturistaEnemigoJefe_3: -1481787099
-      SpriteFuturistaEnemigoJefe_25: 2099553669
-      SpriteFuturistaEnemigoJefe_17: -1208370725
+      IdleFuturistaEnemigoAtacar4: -376159694
+      IdleFuturistaEnemigoAtacar3: -1337890690
+      IdleFuturistaEnemigoMorir1: 2099553669
       SpriteFuturistaEnemigoJefe_2: -41789935
-      SpriteFuturistaEnemigoJefe_24: 1702793790
-      SpriteFuturistaEnemigoJefe_48: 2005793769
+      IdleFuturistaEnemigoAtacar2: 839987722
       SpriteFuturistaEnemigoJefe_0: 338238515
-      SpriteFuturistaEnemigoJefe_38: -1619665699
+      IdleFuturistaEnemigoCaminar1: -330066718
       SpriteFuturistaEnemigoJefe_1: 628038229
       SpriteFuturistaEnemigoJefe_11: -655346692
-      SpriteFuturistaEnemigoJefe_18: 478901181
-      SpriteFuturistaEnemigoJefe_34: -709924543
-      SpriteFuturistaEnemigoJefe_44: 891023059
-      SpriteFuturistaEnemigoJefe_20: -1337890690
-      SpriteFuturistaEnemigoJefe_21: -376159694
-      SpriteFuturistaEnemigoJefe_32: 1863277344
+      IdleFuturistaEnemigo1: 2068721500
+      IdleFuturistaEnemigoAtacar6: -580901975
+      IdleFuturistaEnemigo6: -1208370725
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

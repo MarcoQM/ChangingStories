@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_0
+      name: IdleEnemigoMedieval1
       rect:
         serializedVersion: 2
         x: 85
@@ -113,7 +113,7 @@ TextureImporter:
         width: 217
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_2
+      name: IdleEnemigoMedievalAtacar1
       rect:
         serializedVersion: 2
         x: 85
@@ -134,7 +134,7 @@ TextureImporter:
         width: 229
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_3
+      name: IdleEnemigoMedievalAtacar2
       rect:
         serializedVersion: 2
         x: 318
@@ -155,7 +155,7 @@ TextureImporter:
         width: 228
         height: 206
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_4
+      name: IdleEnemigoMedievalAtacar3
       rect:
         serializedVersion: 2
         x: 549
@@ -176,7 +176,7 @@ TextureImporter:
         width: 225
         height: 205
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_5
+      name: IdleEnemigoMedievalAtacar4
       rect:
         serializedVersion: 2
         x: 777
@@ -197,7 +197,7 @@ TextureImporter:
         width: 230
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_6
+      name: IdleEnemigoMedievalAtacar5
       rect:
         serializedVersion: 2
         x: 1010
@@ -218,7 +218,7 @@ TextureImporter:
         width: 241
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_7
+      name: IdleEnemigoMedievalMorir1
       rect:
         serializedVersion: 2
         x: 85
@@ -239,7 +239,7 @@ TextureImporter:
         width: 230
         height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_8
+      name: IdleEnemigoMedievalMorir2
       rect:
         serializedVersion: 2
         x: 318
@@ -260,7 +260,7 @@ TextureImporter:
         width: 228
         height: 157
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,15 +273,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_9
+      name: IdleEnemigoMedievalMorir3
       rect:
         serializedVersion: 2
         x: 549
-        y: 630
-        width: 458
-        height: 144
+        y: 628
+        width: 221
+        height: 146
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_10
+      name: IdleEnemigoMedievalSaltar1
       rect:
         serializedVersion: 2
         x: 85
@@ -302,7 +302,7 @@ TextureImporter:
         width: 217
         height: 198
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_11
+      name: IdleEnemigoMedievalSaltar2
       rect:
         serializedVersion: 2
         x: 318
@@ -323,7 +323,7 @@ TextureImporter:
         width: 207
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_12
+      name: IdleEnemigoMedievalSaltar3
       rect:
         serializedVersion: 2
         x: 549
@@ -344,7 +344,7 @@ TextureImporter:
         width: 202
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_13
+      name: IdleEnemigoMedievalSaltar4
       rect:
         serializedVersion: 2
         x: 777
@@ -365,7 +365,7 @@ TextureImporter:
         width: 198
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_14
+      name: IdleEnemigoMedievalSaltar5
       rect:
         serializedVersion: 2
         x: 1010
@@ -386,7 +386,7 @@ TextureImporter:
         width: 200
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_15
+      name: IdleEnemigoMedievalSaltar6
       rect:
         serializedVersion: 2
         x: 1241
@@ -407,7 +407,7 @@ TextureImporter:
         width: 206
         height: 199
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_16
+      name: IdleEnemigoMedievalCaminar1
       rect:
         serializedVersion: 2
         x: 105
@@ -428,7 +428,7 @@ TextureImporter:
         width: 217
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_17
+      name: IdleEnemigoMedievalCaminar2
       rect:
         serializedVersion: 2
         x: 337
@@ -449,7 +449,7 @@ TextureImporter:
         width: 209
         height: 199
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_18
+      name: IdleEnemigoMedievalCaminar3
       rect:
         serializedVersion: 2
         x: 569
@@ -470,7 +470,7 @@ TextureImporter:
         width: 205
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_19
+      name: IdleEnemigoMedievalCaminar4
       rect:
         serializedVersion: 2
         x: 798
@@ -491,7 +491,7 @@ TextureImporter:
         width: 202
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_20
+      name: IdleEnemigoMedievalCaminar5
       rect:
         serializedVersion: 2
         x: 1029
@@ -512,7 +512,7 @@ TextureImporter:
         width: 206
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteMedievalEnemigoComun_21
+      name: IdleEnemigoMedievalCaminar6
       rect:
         serializedVersion: 2
         x: 1262
@@ -533,7 +533,7 @@ TextureImporter:
         width: 208
         height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -541,6 +541,27 @@ TextureImporter:
       bones: []
       spriteID: 146ce89d3e5c1a04aba66e6f31b49fc3
       internalID: -368259345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleEnemigoMedievalMorir4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 632
+        width: 219
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd03004cdcfe4145a0fd75b070c0a41
+      internalID: -1195576346
       vertices: []
       indices: 
       edges: []
@@ -556,28 +577,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteMedievalEnemigoComun_6: -1471918450
-      SpriteMedievalEnemigoComun_16: -41382814
-      SpriteMedievalEnemigoComun_4: -1851300814
-      SpriteMedievalEnemigoComun_10: 1244564331
-      SpriteMedievalEnemigoComun_14: -1480416474
-      SpriteMedievalEnemigoComun_15: 1440070962
-      SpriteMedievalEnemigoComun_17: -527070092
-      SpriteMedievalEnemigoComun_9: -237121940
-      SpriteMedievalEnemigoComun_20: 1713751924
-      SpriteMedievalEnemigoComun_2: -1218714396
-      SpriteMedievalEnemigoComun_18: -411918068
-      SpriteMedievalEnemigoComun_5: -787543899
-      SpriteMedievalEnemigoComun_21: -368259345
-      SpriteMedievalEnemigoComun_11: 1925380956
+      IdleEnemigoMedievalAtacar1: -1218714396
+      IdleEnemigoMedievalCaminar5: 1713751924
+      IdleEnemigoMedievalMorir4: -1195576346
+      IdleEnemigoMedievalSaltar2: 1925380956
+      IdleEnemigoMedievalAtacar4: -787543899
+      IdleEnemigoMedievalSaltar4: -1808333734
+      IdleEnemigoMedievalSaltar3: -1275732618
+      IdleEnemigoMedievalCaminar1: -41382814
+      IdleEnemigoMedievalCaminar4: -1370009591
+      IdleEnemigoMedievalCaminar6: -368259345
+      IdleEnemigoMedievalAtacar2: 1754674329
+      IdleEnemigoMedievalAtacar5: -1471918450
+      IdleEnemigoMedievalSaltar1: 1244564331
+      IdleEnemigoMedievalSaltar6: 1440070962
       SpriteMedievalEnemigoComun_1: -1075276235
-      SpriteMedievalEnemigoComun_8: -984323745
-      SpriteMedievalEnemigoComun_12: -1275732618
-      SpriteMedievalEnemigoComun_19: -1370009591
-      SpriteMedievalEnemigoComun_3: 1754674329
-      SpriteMedievalEnemigoComun_13: -1808333734
-      SpriteMedievalEnemigoComun_0: 1646765500
-      SpriteMedievalEnemigoComun_7: -876027497
+      IdleEnemigoMedievalCaminar3: -411918068
+      IdleEnemigoMedievalSaltar5: -1480416474
+      IdleEnemigoMedievalCaminar2: -527070092
+      IdleEnemigoMedievalMorir1: -876027497
+      IdleEnemigoMedieval1: 1646765500
+      IdleEnemigoMedievalMorir3: -237121940
+      IdleEnemigoMedievalMorir2: -984323745
+      IdleEnemigoMedievalAtacar3: -1851300814
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_0
+      name: IdleAntiguoEnemigoVolador1
       rect:
         serializedVersion: 2
         x: 69
@@ -113,7 +113,7 @@ TextureImporter:
         width: 234
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_1
+      name: IdleAntiguoEnemigoVolador2
       rect:
         serializedVersion: 2
         x: 334
@@ -134,7 +134,7 @@ TextureImporter:
         width: 209
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_2
+      name: IdleAntiguoEnemigoVolador3
       rect:
         serializedVersion: 2
         x: 573
@@ -155,7 +155,7 @@ TextureImporter:
         width: 237
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_3
+      name: IdleAntiguoEnemigoVolador4
       rect:
         serializedVersion: 2
         x: 853
@@ -176,7 +176,7 @@ TextureImporter:
         width: 206
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_5
+      name: IdleAntiguoEnemigoVoladorDanio1
       rect:
         serializedVersion: 2
         x: 61
@@ -197,7 +197,7 @@ TextureImporter:
         width: 246
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_6
+      name: IdleAntiguoEnemigoVoladorDanio2
       rect:
         serializedVersion: 2
         x: 316
@@ -218,7 +218,7 @@ TextureImporter:
         width: 255
         height: 155
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_7
+      name: IdleAntiguoEnemigoVoladorDanio3
       rect:
         serializedVersion: 2
         x: 630
@@ -239,7 +239,7 @@ TextureImporter:
         width: 260
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_8
+      name: IdleAntiguoEnemigoVoladorMorir1
       rect:
         serializedVersion: 2
         x: 109
@@ -260,7 +260,7 @@ TextureImporter:
         width: 197
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteAntiguoEnemigoVolador_9
+      name: IdleAntiguoEnemigoVoladorMorir2
       rect:
         serializedVersion: 2
         x: 335
@@ -281,7 +281,7 @@ TextureImporter:
         width: 191
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -302,7 +302,7 @@ TextureImporter:
         width: 180
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,7 +323,7 @@ TextureImporter:
         width: 179
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,7 +344,7 @@ TextureImporter:
         width: 182
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -365,7 +365,7 @@ TextureImporter:
         width: 181
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -386,7 +386,7 @@ TextureImporter:
         width: 217
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -407,7 +407,7 @@ TextureImporter:
         width: 226
         height: 137
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -428,7 +428,7 @@ TextureImporter:
         width: 234
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -449,7 +449,7 @@ TextureImporter:
         width: 221
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -470,7 +470,7 @@ TextureImporter:
         width: 177
         height: 181
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -491,7 +491,7 @@ TextureImporter:
         width: 181
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -512,7 +512,7 @@ TextureImporter:
         width: 191
         height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -533,7 +533,7 @@ TextureImporter:
         width: 182
         height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -554,7 +554,7 @@ TextureImporter:
         width: 209
         height: 185
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -575,7 +575,7 @@ TextureImporter:
         width: 234
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -596,7 +596,7 @@ TextureImporter:
         width: 247
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -617,7 +617,7 @@ TextureImporter:
         width: 260
         height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -640,30 +640,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      IdleAntiguoEnemigoVolador4: 561681102
       SpriteAntiguoEnemigoVolador_14: -1887058853
       SpriteAntiguoEnemigoVolador_4: 794023734
-      SpriteAntiguoEnemigoVolador_6: -1027468817
+      SpriteAntiguoEnemigoVolador_22: -1057416811
       SpriteAntiguoEnemigoVolador_10: 2084440946
       SpriteAntiguoEnemigoVolador_18: 396657335
       SpriteAntiguoEnemigoVolador_16: -845258614
       SpriteAntiguoEnemigoVolador_17: 924651153
       SpriteAntiguoEnemigoVolador_20: 343043729
-      SpriteAntiguoEnemigoVolador_22: -1057416811
-      SpriteAntiguoEnemigoVolador_1: -1245565420
-      SpriteAntiguoEnemigoVolador_21: -638549229
+      IdleAntiguoEnemigoVoladorDanio3: -2145702573
       SpriteAntiguoEnemigoVolador_19: 42151637
+      SpriteAntiguoEnemigoVolador_21: -638549229
       SpriteAntiguoEnemigoVolador_12: 713810376
+      IdleAntiguoEnemigoVoladorDanio1: 1952194533
       SpriteAntiguoEnemigoVolador_24: 926158299
-      SpriteAntiguoEnemigoVolador_3: 561681102
-      SpriteAntiguoEnemigoVolador_9: 1959621832
+      IdleAntiguoEnemigoVoladorDanio2: -1027468817
+      IdleAntiguoEnemigoVolador1: 933869600
       SpriteAntiguoEnemigoVolador_11: 940257245
       SpriteAntiguoEnemigoVolador_13: -465177182
       SpriteAntiguoEnemigoVolador_15: 2084772119
-      SpriteAntiguoEnemigoVolador_0: 933869600
-      SpriteAntiguoEnemigoVolador_2: -226390743
-      SpriteAntiguoEnemigoVolador_5: 1952194533
-      SpriteAntiguoEnemigoVolador_7: -2145702573
-      SpriteAntiguoEnemigoVolador_8: -2066781880
+      IdleAntiguoEnemigoVoladorMorir1: -2066781880
+      IdleAntiguoEnemigoVoladorMorir2: 1959621832
+      IdleAntiguoEnemigoVolador3: -226390743
+      IdleAntiguoEnemigoVolador2: -1245565420
       SpriteAntiguoEnemigoVolador_23: -779593839
   spritePackingTag: 
   pSDRemoveMatte: 0

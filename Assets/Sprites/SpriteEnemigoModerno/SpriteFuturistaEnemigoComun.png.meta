@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_0
+      name: IdleFuturistaEnemigoComun1
       rect:
         serializedVersion: 2
         x: 30
@@ -113,7 +113,7 @@ TextureImporter:
         width: 132
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_1
+      name: IdleFuturistaEnemigoComun2
       rect:
         serializedVersion: 2
         x: 174
@@ -134,7 +134,7 @@ TextureImporter:
         width: 136
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_2
+      name: IdleFuturistaEnemigoComun3
       rect:
         serializedVersion: 2
         x: 326
@@ -155,7 +155,7 @@ TextureImporter:
         width: 136
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_3
+      name: IdleFuturistaEnemigoComun4
       rect:
         serializedVersion: 2
         x: 474
@@ -176,7 +176,7 @@ TextureImporter:
         width: 136
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_4
+      name: IdleFuturistaEnemigoComun5
       rect:
         serializedVersion: 2
         x: 630
@@ -197,7 +197,7 @@ TextureImporter:
         width: 136
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_5
+      name: IdleFuturistaEnemigoComun6
       rect:
         serializedVersion: 2
         x: 778
@@ -218,7 +218,7 @@ TextureImporter:
         width: 136
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_7
+      name: IdleFuturistaEnemigoComunDIsparar1
       rect:
         serializedVersion: 2
         x: 30
@@ -239,7 +239,7 @@ TextureImporter:
         width: 132
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_8
+      name: IdleFuturistaEnemigoComunDIsparar2
       rect:
         serializedVersion: 2
         x: 170
@@ -260,7 +260,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_9
+      name: IdleFuturistaEnemigoComunDIsparar3
       rect:
         serializedVersion: 2
         x: 318
@@ -281,7 +281,7 @@ TextureImporter:
         width: 132
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_10
+      name: IdleFuturistaEnemigoComunDIsparar4
       rect:
         serializedVersion: 2
         x: 470
@@ -302,7 +302,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_11
+      name: IdleFuturistaEnemigoComunMorir1
       rect:
         serializedVersion: 2
         x: 38
@@ -323,7 +323,7 @@ TextureImporter:
         width: 128
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_12
+      name: IdleFuturistaEnemigoComunMorir2
       rect:
         serializedVersion: 2
         x: 190
@@ -344,7 +344,7 @@ TextureImporter:
         width: 128
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_13
+      name: IdleFuturistaEnemigoComunMorir3
       rect:
         serializedVersion: 2
         x: 358
@@ -365,7 +365,7 @@ TextureImporter:
         width: 140
         height: 104
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_14
+      name: IdleFuturistaEnemigoComunMorir4
       rect:
         serializedVersion: 2
         x: 538
@@ -386,7 +386,7 @@ TextureImporter:
         width: 152
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_15
+      name: IdleFuturistaEnemigoComunMorir5
       rect:
         serializedVersion: 2
         x: 714
@@ -407,7 +407,7 @@ TextureImporter:
         width: 148
         height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_16
+      name: IdleFuturistaEnemigoComunCaminar1
       rect:
         serializedVersion: 2
         x: 30
@@ -428,7 +428,7 @@ TextureImporter:
         width: 133
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_17
+      name: IdleFuturistaEnemigoComunCaminar2
       rect:
         serializedVersion: 2
         x: 174
@@ -449,7 +449,7 @@ TextureImporter:
         width: 133
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_18
+      name: IdleFuturistaEnemigoComunCaminar3
       rect:
         serializedVersion: 2
         x: 310
@@ -470,7 +470,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_19
+      name: IdleFuturistaEnemigoComunCaminar4
       rect:
         serializedVersion: 2
         x: 462
@@ -491,7 +491,7 @@ TextureImporter:
         width: 136
         height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_20
+      name: IdleFuturistaEnemigoComunCaminar5
       rect:
         serializedVersion: 2
         x: 614
@@ -512,7 +512,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_21
+      name: IdleFuturistaEnemigoComunCaminar6
       rect:
         serializedVersion: 2
         x: 770
@@ -533,7 +533,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,7 +546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_22
+      name: IdleFuturistaEnemigoComunCaminar7
       rect:
         serializedVersion: 2
         x: 914
@@ -554,7 +554,7 @@ TextureImporter:
         width: 136
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_23
+      name: IdleFuturistaEnemigoComunCaminar8
       rect:
         serializedVersion: 2
         x: 1058
@@ -575,7 +575,7 @@ TextureImporter:
         width: 136
         height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -588,7 +588,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteFuturistaEnemigoComun_24
+      name: IdleFuturistaEnemigoComunCaminar9
       rect:
         serializedVersion: 2
         x: 1210
@@ -596,7 +596,7 @@ TextureImporter:
         width: 133
         height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -619,31 +619,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteFuturistaEnemigoComun_4: 300426227
-      SpriteFuturistaEnemigoComun_21: 94714938
-      SpriteFuturistaEnemigoComun_22: 1872583501
-      SpriteFuturistaEnemigoComun_17: 484496057
-      SpriteFuturistaEnemigoComun_2: -953243128
-      SpriteFuturistaEnemigoComun_20: -1129680175
-      SpriteFuturistaEnemigoComun_9: -335551801
-      SpriteFuturistaEnemigoComun_12: 1801607586
-      SpriteFuturistaEnemigoComun_10: -2011056260
-      SpriteFuturistaEnemigoComun_14: -110443210
-      SpriteFuturistaEnemigoComun_3: -15749533
+      IdleFuturistaEnemigoComunDIsparar2: -754674650
+      IdleFuturistaEnemigoComunDIsparar3: -335551801
+      IdleFuturistaEnemigoComunMorir5: -2118436250
+      IdleFuturistaEnemigoComun3: -953243128
+      IdleFuturistaEnemigoComun5: 300426227
+      IdleFuturistaEnemigoComunCaminar8: -298505648
+      IdleFuturistaEnemigoComunCaminar7: 1872583501
+      IdleFuturistaEnemigoComunCaminar6: 94714938
+      IdleFuturistaEnemigoComunCaminar5: -1129680175
+      IdleFuturistaEnemigoComunCaminar3: -160135045
+      IdleFuturistaEnemigoComunDIsparar4: -2011056260
+      IdleFuturistaEnemigoComunCaminar1: -215609456
+      IdleFuturistaEnemigoComun6: -1333228225
+      IdleFuturistaEnemigoComun1: -1166276010
       SpriteFuturistaEnemigoComun_6: -755945813
-      SpriteFuturistaEnemigoComun_13: -963970350
-      SpriteFuturistaEnemigoComun_16: -215609456
-      SpriteFuturistaEnemigoComun_19: -1292185920
-      SpriteFuturistaEnemigoComun_18: -160135045
-      SpriteFuturistaEnemigoComun_11: -1678799697
-      SpriteFuturistaEnemigoComun_23: -298505648
-      SpriteFuturistaEnemigoComun_8: -754674650
-      SpriteFuturistaEnemigoComun_0: -1166276010
-      SpriteFuturistaEnemigoComun_24: -221579892
-      SpriteFuturistaEnemigoComun_7: -52675161
-      SpriteFuturistaEnemigoComun_1: 363082563
-      SpriteFuturistaEnemigoComun_15: -2118436250
-      SpriteFuturistaEnemigoComun_5: -1333228225
+      IdleFuturistaEnemigoComunCaminar9: -221579892
+      IdleFuturistaEnemigoComun2: 363082563
+      IdleFuturistaEnemigoComunMorir2: 1801607586
+      IdleFuturistaEnemigoComun4: -15749533
+      IdleFuturistaEnemigoComunCaminar2: 484496057
+      IdleFuturistaEnemigoComunMorir1: -1678799697
+      IdleFuturistaEnemigoComunMorir4: -110443210
+      IdleFuturistaEnemigoComunDIsparar1: -52675161
+      IdleFuturistaEnemigoComunCaminar4: -1292185920
+      IdleFuturistaEnemigoComunMorir3: -963970350
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
