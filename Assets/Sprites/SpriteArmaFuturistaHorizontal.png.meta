@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca3399469aaa9b344aaba2c999e4fc26
+guid: bb12f037e0dab58479a3e0794216a9a4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,64 +105,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteArmaFuturista_0
+      name: SpriteArmaFuturistaHorizontal_0
       rect:
         serializedVersion: 2
-        x: 437
-        y: 307
-        width: 422
-        height: 1143
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c6036785ed7d104cae1ea8763b3cda5
-      internalID: -2023610543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteArmaFuturista_1
-      rect:
-        serializedVersion: 2
-        x: 1033
-        y: 305
-        width: 450
-        height: 1230
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50cd22fd2362fba4daa47907ec4fe71a
-      internalID: 399986940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteArmaFuturista_2
-      rect:
-        serializedVersion: 2
-        x: 1681
-        y: 307
-        width: 422
-        height: 1143
+        x: 307
+        y: 1449
+        width: 1143
+        height: 422
       alignment: 9
-      pivot: {x: 0.48317224, y: 0.27633792}
+      pivot: {x: 0.21851408, y: 0.5560592}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31b31cf9091d3374d94281cbc0cb29c1
-      internalID: 1273154658
+      spriteID: dbc37c3336bf276408b0a030b13bba1f
+      internalID: -1174484207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteArmaFuturistaHorizontal_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 825
+        width: 1230
+        height: 450
+      alignment: 9
+      pivot: {x: 0.2230372, y: 0.5105141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee831fac26c5c47adca4475b101ee6
+      internalID: 1009497201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteArmaFuturistaHorizontal_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 205
+        width: 1143
+        height: 422
+      alignment: 9
+      pivot: {x: 0.30130407, y: 0.53363466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9548c7621aab20f468a058320831330d
+      internalID: -2055172566
       vertices: []
       indices: 
       edges: []
@@ -178,9 +178,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteArmaFuturista_2: 1273154658
-      SpriteArmaFuturista_0: -2023610543
-      SpriteArmaFuturista_1: 399986940
+      SpriteArmaFuturistaHorizontal_0: -1174484207
+      SpriteArmaFuturistaHorizontal_1: 1009497201
+      SpriteArmaFuturistaHorizontal_2: -2055172566
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

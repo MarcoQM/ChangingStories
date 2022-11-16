@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca3399469aaa9b344aaba2c999e4fc26
+guid: b808224516948c14f9fd16ed175ea530
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,64 +105,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteArmaFuturista_0
+      name: SpriteBalaArmaFuturista_0
       rect:
         serializedVersion: 2
-        x: 437
-        y: 307
-        width: 422
-        height: 1143
+        x: 114
+        y: 8
+        width: 266
+        height: 481
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c6036785ed7d104cae1ea8763b3cda5
-      internalID: -2023610543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteArmaFuturista_1
-      rect:
-        serializedVersion: 2
-        x: 1033
-        y: 305
-        width: 450
-        height: 1230
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50cd22fd2362fba4daa47907ec4fe71a
-      internalID: 399986940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpriteArmaFuturista_2
-      rect:
-        serializedVersion: 2
-        x: 1681
-        y: 307
-        width: 422
-        height: 1143
-      alignment: 9
-      pivot: {x: 0.48317224, y: 0.27633792}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31b31cf9091d3374d94281cbc0cb29c1
-      internalID: 1273154658
+      spriteID: 1fc50236d799df1459675adb77871e99
+      internalID: -950471002
       vertices: []
       indices: 
       edges: []
@@ -178,9 +136,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpriteArmaFuturista_2: 1273154658
-      SpriteArmaFuturista_0: -2023610543
-      SpriteArmaFuturista_1: 399986940
+      SpriteBalaArmaFuturista_0: -950471002
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
